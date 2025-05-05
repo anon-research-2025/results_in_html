@@ -1,0 +1,1680 @@
+{
+    "mode_3": {
+        "pwms": [
+            "triplet_motifs/12_12_12/2_10.png",
+            "triplet_motifs/12_12_12/7_10.png",
+            "triplet_motifs/12_12_12/7_16.png",
+            "triplet_motifs/12_12_12/10_1.png",
+            "triplet_motifs/12_12_12/11_3.png",
+            "triplet_motifs/12_12_12/12_16.png",
+            "triplet_motifs/12_12_12/14_13.png",
+            "triplet_motifs/12_12_12/14_16.png",
+            "triplet_motifs/12_12_12/14_19.png",
+            "triplet_motifs/12_12_12/18_15.png",
+            "triplet_motifs/12_12_12/23_13.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 2 nucleotides apart<br>pattern 12 and 12 are 10 nucleotides apart<br>",
+            "pattern 12 and 12 are 7 nucleotides apart<br>pattern 12 and 12 are 10 nucleotides apart<br>",
+            "pattern 12 and 12 are 7 nucleotides apart<br>pattern 12 and 12 are 16 nucleotides apart<br>",
+            "pattern 12 and 12 are 10 nucleotides apart<br>pattern 12 and 12 are 1 nucleotides apart<br>",
+            "pattern 12 and 12 are 11 nucleotides apart<br>pattern 12 and 12 are 3 nucleotides apart<br>",
+            "pattern 12 and 12 are 12 nucleotides apart<br>pattern 12 and 12 are 16 nucleotides apart<br>",
+            "pattern 12 and 12 are 14 nucleotides apart<br>pattern 12 and 12 are 13 nucleotides apart<br>",
+            "pattern 12 and 12 are 14 nucleotides apart<br>pattern 12 and 12 are 16 nucleotides apart<br>",
+            "pattern 12 and 12 are 14 nucleotides apart<br>pattern 12 and 12 are 19 nucleotides apart<br>",
+            "pattern 12 and 12 are 18 nucleotides apart<br>pattern 12 and 12 are 15 nucleotides apart<br>",
+            "pattern 12 and 12 are 23 nucleotides apart<br>pattern 12 and 12 are 13 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_2_10.png')\"><span class=\"putBar\">contribution</span>: 0.37</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_12_12/2_10.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/2_10.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnCCGnnnnGnnnCnnnCCGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_7_10.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/12_12_12/7_10.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/7_10.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnnnnnnCGGnnnnnnnnnnnCCGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_7_16.png')\"><span class=\"putBar\">contribution</span>: 0.38</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_12/7_16.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/7_16.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnGnnTnnnCCGnGnTnTGCATnnnnnAGnCCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_10_1.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_12_12/10_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/10_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnGnnTnnnnnnnCGnnnnCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_11_3.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 14",
+                "<a href=\"singleton_motifs/12_12_12/11_3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/11_3.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnGnnnnGnnnnCCGGGnnnnCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_12_16.png')\"><span class=\"putBar\">contribution</span>: 0.33</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_12_12/12_16.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/12_16.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnTnnnnnnnnnGCGGnnnnGnnnnnnnnnGnnCCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_14_13.png')\"><span class=\"putBar\">contribution</span>: 0.43</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_12/14_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/14_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnAnnnnTnnTnnnnnGCGCnnnnnnnGnnGnnGCCGnA')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_14_16.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_12/14_16.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/14_16.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGnnnnnnnnnnnnnnnnnCGGGnnnnnnnGGnnnnnnnnCGnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_14_19.png')\"><span class=\"putBar\">contribution</span>: 0.47</a>",
+                "# occurrences: 5",
+                "<a href=\"singleton_motifs/12_12_12/14_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/14_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGnnnnGnTnnnnnTGnnCCGGnnGnATnTCTnGnTnGnnnGCCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_18_15.png')\"><span class=\"putBar\">contribution</span>: 0.44</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_12/18_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/18_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGGnnnnnnnnnnGGnnnGGGCCGGnnGTnnnnnAnnnnGnCCGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/box_23_13.png')\"><span class=\"putBar\">contribution</span>: 0.41</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_12/23_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_12/23_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnGnnnnnGnnGnnnnnnGnnnGCGnnnnGnnnTAnnGGnGCGnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_12/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_23": {
+        "pwms": [
+            "triplet_motifs/6_4_4/0_8.png",
+            "triplet_motifs/6_4_4/3_3.png"
+        ],
+        "labels": [
+            "pattern 6 and 4 are 0 nucleotides apart<br>pattern 4 and 4 are 8 nucleotides apart<br>",
+            "pattern 6 and 4 are 3 nucleotides apart<br>pattern 4 and 4 are 3 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_4_4/box_0_8.png')\"><span class=\"putBar\">contribution</span>: -0.12</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/6_4_4/0_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_4_4/0_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACATAGGGnnnnnnnnTGGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/6_4_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_4_4/box_3_3.png')\"><span class=\"putBar\">contribution</span>: -0.22</a>",
+                "# occurrences: 6",
+                "<a href=\"singleton_motifs/6_4_4/3_3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_4_4/3_3.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACnnnnTAGGnnnnTGGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/6_4_4/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_6": {
+        "pwms": [
+            "triplet_motifs/12_12_3/1_7.png",
+            "triplet_motifs/12_12_3/8_0.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 3 are 7 nucleotides apart<br>",
+            "pattern 12 and 12 are 8 nucleotides apart<br>pattern 12 and 3 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_3/box_1_7.png')\"><span class=\"putBar\">contribution</span>: 0.52</a>",
+                "# occurrences: 3",
+                "<a href=\"singleton_motifs/12_12_3/1_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_3/1_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGGCCGGnTnCAAnCCCGTA')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_3/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_3/box_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.16</a>",
+                "# occurrences: 5",
+                "<a href=\"singleton_motifs/12_12_3/8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_3/8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGCTnCnnnGGCGGnnCCAA')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_3/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_26": {
+        "pwms": [
+            "triplet_motifs/3_4_4/8_0.png",
+            "triplet_motifs/3_4_4/13_12.png",
+            "triplet_motifs/3_4_4/16_1.png"
+        ],
+        "labels": [
+            "pattern 3 and 4 are 8 nucleotides apart<br>pattern 4 and 4 are 0 nucleotides apart<br>",
+            "pattern 3 and 4 are 13 nucleotides apart<br>pattern 4 and 4 are 12 nucleotides apart<br>",
+            "pattern 3 and 4 are 16 nucleotides apart<br>pattern 4 and 4 are 1 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/3_4_4/box_8_0.png')\"><span class=\"putBar\">contribution</span>: -0.1</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/3_4_4/8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/3_4_4/8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTGTAnnnnnnAnTAGGnTGGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/3_4_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/3_4_4/box_13_12.png')\"><span class=\"putBar\">contribution</span>: -0.2</a>",
+                "# occurrences: 6",
+                "<a href=\"singleton_motifs/3_4_4/13_12.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/3_4_4/13_12.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnAnnTnnCnnnnnCnTGGGnnnnnnnnnnnnnTnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/3_4_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/3_4_4/box_16_1.png')\"><span class=\"putBar\">contribution</span>: -0.19</a>",
+                "# occurrences: 6",
+                "<a href=\"singleton_motifs/3_4_4/16_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/3_4_4/16_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TCAAnnnnnnnnnnnnnnnnTnGGGnTGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/3_4_4/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_1": {
+        "pwms": [
+            "triplet_motifs/12_12_13/6_4.png",
+            "triplet_motifs/12_12_13/12_7.png",
+            "triplet_motifs/12_12_13/12_11.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 6 nucleotides apart<br>pattern 12 and 13 are 4 nucleotides apart<br>",
+            "pattern 12 and 12 are 12 nucleotides apart<br>pattern 12 and 13 are 7 nucleotides apart<br>",
+            "pattern 12 and 12 are 12 nucleotides apart<br>pattern 12 and 13 are 11 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_13/box_6_4.png')\"><span class=\"putBar\">contribution</span>: 0.35</a>",
+                "# occurrences: 14",
+                "<a href=\"singleton_motifs/12_12_13/6_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_13/6_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGnnnnnGnnCCGnGnTAnnTTT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_13/box_12_7.png')\"><span class=\"putBar\">contribution</span>: 0.39</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_13/12_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_13/12_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnGnnnnnCnnnGnCGnnnnnnnnnGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_13/box_12_11.png')\"><span class=\"putBar\">contribution</span>: 0.45</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_13/12_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_13/12_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnGnTTnnnnGnnGCGnnnnnnnnnnnnTnTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_32": {
+        "pwms": [
+            "triplet_motifs/6_7_4/4_8.png"
+        ],
+        "labels": [
+            "pattern 6 and 7 are 4 nucleotides apart<br>pattern 7 and 4 are 8 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_7_4/box_4_8.png')\"><span class=\"putBar\">contribution</span>: -0.09</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/6_7_4/4_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_7_4/4_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACAnnnnAGnTnGnnnnnnnTnGG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_27": {
+        "pwms": [
+            "triplet_motifs/12_2_10/14_6.png"
+        ],
+        "labels": [
+            "pattern 12 and 2 are 14 nucleotides apart<br>pattern 2 and 10 are 6 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_2_10/box_14_6.png')\"><span class=\"putBar\">contribution</span>: 0.16</a>",
+                "# occurrences: 23",
+                "<a href=\"singleton_motifs/12_2_10/14_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_2_10/14_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnnnnnGnnnnnnGCGnnnnnnnnCCGG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_31": {
+        "pwms": [
+            "triplet_motifs/7_4_15/8_6.png"
+        ],
+        "labels": [
+            "pattern 7 and 4 are 8 nucleotides apart<br>pattern 4 and 15 are 6 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/7_4_15/box_8_6.png')\"><span class=\"putBar\">contribution</span>: -0.1</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/7_4_15/8_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/7_4_15/8_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AGnnTnGnnnGnnTAGGnnCGnnnnTnGA')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_36": {
+        "pwms": [
+            "triplet_motifs/6_11_4/11_2.png"
+        ],
+        "labels": [
+            "pattern 6 and 11 are 11 nucleotides apart<br>pattern 11 and 4 are 2 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_11_4/box_11_2.png')\"><span class=\"putBar\">contribution</span>: -0.03</a>",
+                "# occurrences: 3",
+                "<a href=\"singleton_motifs/6_11_4/11_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_11_4/11_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TACTTGnnnTnGnnGCnGGACnAAGGG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_35": {
+        "pwms": [
+            "triplet_motifs/3_7_15/1_0.png"
+        ],
+        "labels": [
+            "pattern 3 and 7 are 1 nucleotides apart<br>pattern 7 and 15 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/3_7_15/box_1_0.png')\"><span class=\"putBar\">contribution</span>: -0.06</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/3_7_15/1_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/3_7_15/1_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCAAAAGCnnTTATA')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_20": {
+        "pwms": [
+            "triplet_motifs/3_7_4/2_16.png"
+        ],
+        "labels": [
+            "pattern 3 and 7 are 2 nucleotides apart<br>pattern 7 and 4 are 16 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/3_7_4/box_2_16.png')\"><span class=\"putBar\">contribution</span>: -0.22</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/3_7_4/2_16.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/3_7_4/2_16.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GTGTAnnAGnTnGnnnGnnTnGnCnnTnTAGGG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_18": {
+        "pwms": [
+            "triplet_motifs/12_14_10/0_7.png",
+            "triplet_motifs/12_14_10/3_0.png",
+            "triplet_motifs/12_14_10/3_1.png",
+            "triplet_motifs/12_14_10/3_17.png",
+            "triplet_motifs/12_14_10/4_1.png",
+            "triplet_motifs/12_14_10/5_6.png",
+            "triplet_motifs/12_14_10/5_24.png",
+            "triplet_motifs/12_14_10/11_8.png",
+            "triplet_motifs/12_14_10/16_4.png",
+            "triplet_motifs/12_14_10/17_3.png",
+            "triplet_motifs/12_14_10/17_4.png",
+            "triplet_motifs/12_14_10/18_6.png",
+            "triplet_motifs/12_14_10/19_1.png",
+            "triplet_motifs/12_14_10/20_2.png",
+            "triplet_motifs/12_14_10/23_0.png"
+        ],
+        "labels": [
+            "pattern 12 and 14 are 0 nucleotides apart<br>pattern 14 and 10 are 7 nucleotides apart<br>",
+            "pattern 12 and 14 are 3 nucleotides apart<br>pattern 14 and 10 are 0 nucleotides apart<br>",
+            "pattern 12 and 14 are 3 nucleotides apart<br>pattern 14 and 10 are 1 nucleotides apart<br>",
+            "pattern 12 and 14 are 3 nucleotides apart<br>pattern 14 and 10 are 17 nucleotides apart<br>",
+            "pattern 12 and 14 are 4 nucleotides apart<br>pattern 14 and 10 are 1 nucleotides apart<br>",
+            "pattern 12 and 14 are 5 nucleotides apart<br>pattern 14 and 10 are 6 nucleotides apart<br>",
+            "pattern 12 and 14 are 5 nucleotides apart<br>pattern 14 and 10 are 24 nucleotides apart<br>",
+            "pattern 12 and 14 are 11 nucleotides apart<br>pattern 14 and 10 are 8 nucleotides apart<br>",
+            "pattern 12 and 14 are 16 nucleotides apart<br>pattern 14 and 10 are 4 nucleotides apart<br>",
+            "pattern 12 and 14 are 17 nucleotides apart<br>pattern 14 and 10 are 3 nucleotides apart<br>",
+            "pattern 12 and 14 are 17 nucleotides apart<br>pattern 14 and 10 are 4 nucleotides apart<br>",
+            "pattern 12 and 14 are 18 nucleotides apart<br>pattern 14 and 10 are 6 nucleotides apart<br>",
+            "pattern 12 and 14 are 19 nucleotides apart<br>pattern 14 and 10 are 1 nucleotides apart<br>",
+            "pattern 12 and 14 are 20 nucleotides apart<br>pattern 14 and 10 are 2 nucleotides apart<br>",
+            "pattern 12 and 14 are 23 nucleotides apart<br>pattern 14 and 10 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_0_7.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_14_10/0_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/0_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnGCGnnnTGnnAnCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_3_0.png')\"><span class=\"putBar\">contribution</span>: 0.2</a>",
+                "# occurrences: 14",
+                "<a href=\"singleton_motifs/12_14_10/3_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/3_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGnnnnnCGCGnnCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_3_1.png')\"><span class=\"putBar\">contribution</span>: 0.2</a>",
+                "# occurrences: 19",
+                "<a href=\"singleton_motifs/12_14_10/3_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/3_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnnnnnGCGnnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_3_17.png')\"><span class=\"putBar\">contribution</span>: 0.25</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_14_10/3_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/3_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnCGCGnGnnnnnnCCnGnnnnnGTCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_4_1.png')\"><span class=\"putBar\">contribution</span>: 0.23</a>",
+                "# occurrences: 6",
+                "<a href=\"singleton_motifs/12_14_10/4_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/4_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnnnnCGnGTnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_5_6.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 16",
+                "<a href=\"singleton_motifs/12_14_10/5_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/5_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnnnnnCGCGnnnnnnnTCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_5_24.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/12_14_10/5_24.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/5_24.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnCnnnnnGCGnnGnnnnnACnTnnnGnnGnnnGnnnCnGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_11_8.png')\"><span class=\"putBar\">contribution</span>: 0.26</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_14_10/11_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/11_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGGnnGnCnCnnnnCGCGCTnnCnnnnTCnGA')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_16_4.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_14_10/16_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/16_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnnnnnnnnnGnnnnnnnnGCGnnnnnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_17_3.png')\"><span class=\"putBar\">contribution</span>: 0.25</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_14_10/17_3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/17_3.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGnnGnAnnnnnnnnnGnnCGCGCnGnGCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_17_4.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_14_10/17_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/17_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGGnnnnnnnnnnnnnnnnnCGCGnnnnnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_18_6.png')\"><span class=\"putBar\">contribution</span>: 0.19</a>",
+                "# occurrences: 10",
+                "<a href=\"singleton_motifs/12_14_10/18_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/18_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGGnGnnnnnnGnnnnGnnnnnnCGnGnGTnGTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_19_1.png')\"><span class=\"putBar\">contribution</span>: 0.3</a>",
+                "# occurrences: 10",
+                "<a href=\"singleton_motifs/12_14_10/19_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/19_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnGnnnnnGnGnnnnnnnnGCGnnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_20_2.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_14_10/20_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/20_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnAnTnnnnnnnnnnGnAnnnnnGGCGnnnTCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/box_23_0.png')\"><span class=\"putBar\">contribution</span>: 0.3</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_14_10/23_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_10/23_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGAnnAnnnnnnTnTnnnGnnnnnnnnGCGTTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_10/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_4": {
+        "pwms": [
+            "triplet_motifs/12_13_10/6_8.png",
+            "triplet_motifs/12_13_10/7_11.png",
+            "triplet_motifs/12_13_10/11_2.png"
+        ],
+        "labels": [
+            "pattern 12 and 13 are 6 nucleotides apart<br>pattern 13 and 10 are 8 nucleotides apart<br>",
+            "pattern 12 and 13 are 7 nucleotides apart<br>pattern 13 and 10 are 11 nucleotides apart<br>",
+            "pattern 12 and 13 are 11 nucleotides apart<br>pattern 13 and 10 are 2 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_10/box_6_8.png')\"><span class=\"putBar\">contribution</span>: 0.37</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_13_10/6_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_13_10/6_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnnCnTnnTTTCnnnnnnnnTCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_10/box_7_11.png')\"><span class=\"putBar\">contribution</span>: 0.35</a>",
+                "# occurrences: 10",
+                "<a href=\"singleton_motifs/12_13_10/7_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_13_10/7_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnnnnGnnTnTTTnnnnnnnnnnnnTCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_10/box_11_2.png')\"><span class=\"putBar\">contribution</span>: 0.36</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_13_10/11_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_13_10/11_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnnGnnTnnnGCnGTCTCnnGCGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_10/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_7": {
+        "pwms": [
+            "triplet_motifs/12_8_2/0_21.png"
+        ],
+        "labels": [
+            "pattern 12 and 8 are 0 nucleotides apart<br>pattern 8 and 2 are 21 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_8_2/box_0_21.png')\"><span class=\"putBar\">contribution</span>: 0.33</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_8_2/0_21.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_8_2/0_21.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnCnCGnnnGnnnGnAnnnnnTnnAnnnGGCGC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_17": {
+        "pwms": [
+            "triplet_motifs/12_14_14/8_0.png"
+        ],
+        "labels": [
+            "pattern 12 and 14 are 8 nucleotides apart<br>pattern 14 and 14 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_14/box_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 13",
+                "<a href=\"singleton_motifs/12_14_14/8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_14/8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGnnnnnnnnnnCGnCGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_19": {
+        "pwms": [
+            "triplet_motifs/12_14_2/1_7.png",
+            "triplet_motifs/12_14_2/2_6.png",
+            "triplet_motifs/12_14_2/3_6.png",
+            "triplet_motifs/12_14_2/5_5.png",
+            "triplet_motifs/12_14_2/6_11.png",
+            "triplet_motifs/12_14_2/8_3.png",
+            "triplet_motifs/12_14_2/9_5.png",
+            "triplet_motifs/12_14_2/11_4.png",
+            "triplet_motifs/12_14_2/13_8.png",
+            "triplet_motifs/12_14_2/16_1.png",
+            "triplet_motifs/12_14_2/19_1.png"
+        ],
+        "labels": [
+            "pattern 12 and 14 are 1 nucleotides apart<br>pattern 14 and 2 are 7 nucleotides apart<br>",
+            "pattern 12 and 14 are 2 nucleotides apart<br>pattern 14 and 2 are 6 nucleotides apart<br>",
+            "pattern 12 and 14 are 3 nucleotides apart<br>pattern 14 and 2 are 6 nucleotides apart<br>",
+            "pattern 12 and 14 are 5 nucleotides apart<br>pattern 14 and 2 are 5 nucleotides apart<br>",
+            "pattern 12 and 14 are 6 nucleotides apart<br>pattern 14 and 2 are 11 nucleotides apart<br>",
+            "pattern 12 and 14 are 8 nucleotides apart<br>pattern 14 and 2 are 3 nucleotides apart<br>",
+            "pattern 12 and 14 are 9 nucleotides apart<br>pattern 14 and 2 are 5 nucleotides apart<br>",
+            "pattern 12 and 14 are 11 nucleotides apart<br>pattern 14 and 2 are 4 nucleotides apart<br>",
+            "pattern 12 and 14 are 13 nucleotides apart<br>pattern 14 and 2 are 8 nucleotides apart<br>",
+            "pattern 12 and 14 are 16 nucleotides apart<br>pattern 14 and 2 are 1 nucleotides apart<br>",
+            "pattern 12 and 14 are 19 nucleotides apart<br>pattern 14 and 2 are 1 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_1_7.png')\"><span class=\"putBar\">contribution</span>: 0.2</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/12_14_2/1_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/1_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnCnCGTnnnnnnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_2_6.png')\"><span class=\"putBar\">contribution</span>: 0.2</a>",
+                "# occurrences: 14",
+                "<a href=\"singleton_motifs/12_14_2/2_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/2_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnCGCnnnnnnGGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_3_6.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 18",
+                "<a href=\"singleton_motifs/12_14_2/3_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/3_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGAnnnGGCGnGnnnGnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_5_5.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 18",
+                "<a href=\"singleton_motifs/12_14_2/5_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/5_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnnnnCGCGnnnnnnGnCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_6_11.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/12_14_2/6_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/6_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnnnnGCGnnnnGnnGGnnnAGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_8_3.png')\"><span class=\"putBar\">contribution</span>: 0.19</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/12_14_2/8_3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/8_3.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGGnnnnnnnnnGCGnnCnGGCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_9_5.png')\"><span class=\"putBar\">contribution</span>: 0.2</a>",
+                "# occurrences: 18",
+                "<a href=\"singleton_motifs/12_14_2/9_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/9_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnnnnnnnGCGnnnnnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_11_4.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 13",
+                "<a href=\"singleton_motifs/12_14_2/11_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/11_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnnnnTnnnnnnCGCGnGnnCGGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_13_8.png')\"><span class=\"putBar\">contribution</span>: 0.28</a>",
+                "# occurrences: 13",
+                "<a href=\"singleton_motifs/12_14_2/13_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/13_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGnTnnnnnnnnTnnCGCGCnnnCnnnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_16_1.png')\"><span class=\"putBar\">contribution</span>: 0.13</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_14_2/16_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/16_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGnnnnnnnnnnnnnnnnCGCGnnGGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/box_19_1.png')\"><span class=\"putBar\">contribution</span>: 0.37</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_14_2/19_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_2/19_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnnnnnGTnGnnnnGnnnnGCGCGnGCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_2/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_9": {
+        "pwms": [
+            "triplet_motifs/12_12_8/1_5.png",
+            "triplet_motifs/12_12_8/1_15.png",
+            "triplet_motifs/12_12_8/2_17.png",
+            "triplet_motifs/12_12_8/7_15.png",
+            "triplet_motifs/12_12_8/11_2.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 8 are 5 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 8 are 15 nucleotides apart<br>",
+            "pattern 12 and 12 are 2 nucleotides apart<br>pattern 12 and 8 are 17 nucleotides apart<br>",
+            "pattern 12 and 12 are 7 nucleotides apart<br>pattern 12 and 8 are 15 nucleotides apart<br>",
+            "pattern 12 and 12 are 11 nucleotides apart<br>pattern 12 and 8 are 2 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/box_1_5.png')\"><span class=\"putBar\">contribution</span>: 0.25</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_8/1_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_8/1_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGnCCGGnnnnnnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/box_1_15.png')\"><span class=\"putBar\">contribution</span>: 0.33</a>",
+                "# occurrences: 6",
+                "<a href=\"singleton_motifs/12_12_8/1_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_8/1_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnGnCGnnnnnnnnnnnnnnnGnCnCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/box_2_17.png')\"><span class=\"putBar\">contribution</span>: 0.28</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_8/2_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_8/2_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnCCGGnnnnnnnnnnnnnnnnnnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/box_7_15.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/12_12_8/7_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_8/7_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnGnTnAnnnCGnGnnnnnnAnAnnnGnnCGnGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/box_11_2.png')\"><span class=\"putBar\">contribution</span>: 0.32</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_8/11_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_8/11_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnnnnnnnnnnnCGnnnnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_8/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_25": {
+        "pwms": [
+            "triplet_motifs/3_4_15/2_3.png"
+        ],
+        "labels": [
+            "pattern 3 and 4 are 2 nucleotides apart<br>pattern 4 and 15 are 3 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/3_4_15/box_2_3.png')\"><span class=\"putBar\">contribution</span>: -0.17</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/3_4_15/2_3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/3_4_15/2_3.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TCAATnTAGCGTnACTnCA')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_22": {
+        "pwms": [
+            "triplet_motifs/4_4_15/5_8.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 5 nucleotides apart<br>pattern 4 and 15 are 8 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/4_4_15/box_5_8.png')\"><span class=\"putBar\">contribution</span>: -0.2</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/4_4_15/5_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/4_4_15/5_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TAGGnnAnAnTnGCGnnCnnTnnATnTA')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_2": {
+        "pwms": [
+            "triplet_motifs/12_14_13/3_4.png",
+            "triplet_motifs/12_14_13/13_1.png",
+            "triplet_motifs/12_14_13/19_1.png",
+            "triplet_motifs/12_14_13/20_5.png"
+        ],
+        "labels": [
+            "pattern 12 and 14 are 3 nucleotides apart<br>pattern 14 and 13 are 4 nucleotides apart<br>",
+            "pattern 12 and 14 are 13 nucleotides apart<br>pattern 14 and 13 are 1 nucleotides apart<br>",
+            "pattern 12 and 14 are 19 nucleotides apart<br>pattern 14 and 13 are 1 nucleotides apart<br>",
+            "pattern 12 and 14 are 20 nucleotides apart<br>pattern 14 and 13 are 5 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/box_3_4.png')\"><span class=\"putBar\">contribution</span>: 0.33</a>",
+                "# occurrences: 10",
+                "<a href=\"singleton_motifs/12_14_13/3_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_13/3_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnnnnnnCGCnnnnnTTT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/box_13_1.png')\"><span class=\"putBar\">contribution</span>: 0.57</a>",
+                "# occurrences: 5",
+                "<a href=\"singleton_motifs/12_14_13/13_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_13/13_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGCnGnGnTnnGnGnCnCGTGGTTT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/box_19_1.png')\"><span class=\"putBar\">contribution</span>: 0.26</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_14_13/19_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_13/19_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnnnnnnnnGnnnnnnnnGCGCGnTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/box_20_5.png')\"><span class=\"putBar\">contribution</span>: 0.37</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_14_13/20_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_13/20_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGGnnGnnnTnnnnnGnnnnnGnnGCGnnnnnnnTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_8": {
+        "pwms": [
+            "triplet_motifs/12_13_2/1_2.png",
+            "triplet_motifs/12_13_2/1_19.png"
+        ],
+        "labels": [
+            "pattern 12 and 13 are 1 nucleotides apart<br>pattern 13 and 2 are 2 nucleotides apart<br>",
+            "pattern 12 and 13 are 1 nucleotides apart<br>pattern 13 and 2 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_2/box_1_2.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 14",
+                "<a href=\"singleton_motifs/12_13_2/1_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_13_2/1_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnTTTCnnnnCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_2/box_1_19.png')\"><span class=\"putBar\">contribution</span>: 0.36</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_13_2/1_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_13_2/1_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGAAnGTTTnnnnCnnnnnnnnAnnGTnGGGCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_13_2/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_30": {
+        "pwms": [
+            "triplet_motifs/6_3_4/0_1.png",
+            "triplet_motifs/6_3_4/0_2.png",
+            "triplet_motifs/6_3_4/0_7.png",
+            "triplet_motifs/6_3_4/3_18.png",
+            "triplet_motifs/6_3_4/6_1.png"
+        ],
+        "labels": [
+            "pattern 6 and 3 are 0 nucleotides apart<br>pattern 3 and 4 are 1 nucleotides apart<br>",
+            "pattern 6 and 3 are 0 nucleotides apart<br>pattern 3 and 4 are 2 nucleotides apart<br>",
+            "pattern 6 and 3 are 0 nucleotides apart<br>pattern 3 and 4 are 7 nucleotides apart<br>",
+            "pattern 6 and 3 are 3 nucleotides apart<br>pattern 3 and 4 are 18 nucleotides apart<br>",
+            "pattern 6 and 3 are 6 nucleotides apart<br>pattern 3 and 4 are 1 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/box_0_1.png')\"><span class=\"putBar\">contribution</span>: -0.17</a>",
+                "# occurrences: 10",
+                "<a href=\"singleton_motifs/6_3_4/0_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_3_4/0_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACAnTGTAnTGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/box_0_2.png')\"><span class=\"putBar\">contribution</span>: -0.13</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/6_3_4/0_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_3_4/0_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACAnTCTAGnTAGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/box_0_7.png')\"><span class=\"putBar\">contribution</span>: -0.16</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/6_3_4/0_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_3_4/0_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AACAnTCAAnnnnnnnTAGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/box_3_18.png')\"><span class=\"putBar\">contribution</span>: -0.08</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/6_3_4/3_18.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_3_4/3_18.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACAnnnTTGAAnnnnnnnnnnCnnGnnnGTAGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/box_6_1.png')\"><span class=\"putBar\">contribution</span>: -0.14</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/6_3_4/6_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_3_4/6_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TnACAnnnnnnTCGTAnTAGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/6_3_4/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_34": {
+        "pwms": [
+            "triplet_motifs/9_4_4/5_7.png"
+        ],
+        "labels": [
+            "pattern 9 and 4 are 5 nucleotides apart<br>pattern 4 and 4 are 7 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/9_4_4/box_5_7.png')\"><span class=\"putBar\">contribution</span>: -0.06</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/9_4_4/5_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/9_4_4/5_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TnTTnnTnnnTAGCGTnnnnCnTGGC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_12": {
+        "pwms": [
+            "triplet_motifs/12_12_10/0_20.png",
+            "triplet_motifs/12_12_10/1_19.png",
+            "triplet_motifs/12_12_10/3_7.png",
+            "triplet_motifs/12_12_10/9_4.png",
+            "triplet_motifs/12_12_10/10_2.png",
+            "triplet_motifs/12_12_10/10_13.png",
+            "triplet_motifs/12_12_10/11_12.png",
+            "triplet_motifs/12_12_10/14_9.png",
+            "triplet_motifs/12_12_10/15_5.png",
+            "triplet_motifs/12_12_10/16_2.png",
+            "triplet_motifs/12_12_10/20_5.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 0 nucleotides apart<br>pattern 12 and 10 are 20 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 10 are 19 nucleotides apart<br>",
+            "pattern 12 and 12 are 3 nucleotides apart<br>pattern 12 and 10 are 7 nucleotides apart<br>",
+            "pattern 12 and 12 are 9 nucleotides apart<br>pattern 12 and 10 are 4 nucleotides apart<br>",
+            "pattern 12 and 12 are 10 nucleotides apart<br>pattern 12 and 10 are 2 nucleotides apart<br>",
+            "pattern 12 and 12 are 10 nucleotides apart<br>pattern 12 and 10 are 13 nucleotides apart<br>",
+            "pattern 12 and 12 are 11 nucleotides apart<br>pattern 12 and 10 are 12 nucleotides apart<br>",
+            "pattern 12 and 12 are 14 nucleotides apart<br>pattern 12 and 10 are 9 nucleotides apart<br>",
+            "pattern 12 and 12 are 15 nucleotides apart<br>pattern 12 and 10 are 5 nucleotides apart<br>",
+            "pattern 12 and 12 are 16 nucleotides apart<br>pattern 12 and 10 are 2 nucleotides apart<br>",
+            "pattern 12 and 12 are 20 nucleotides apart<br>pattern 12 and 10 are 5 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_0_20.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 6",
+                "<a href=\"singleton_motifs/12_12_10/0_20.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/0_20.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnGCGnnnGGnnnnnnnnnnnnnnnnnTCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_1_19.png')\"><span class=\"putBar\">contribution</span>: 0.23</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_10/1_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/1_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnnGCGnGnnnnnnnnnnnnCGGCnnnTCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_3_7.png')\"><span class=\"putBar\">contribution</span>: 0.11</a>",
+                "# occurrences: 14",
+                "<a href=\"singleton_motifs/12_12_10/3_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/3_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnnnCGGnnnnnnnnnCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_9_4.png')\"><span class=\"putBar\">contribution</span>: 0.32</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_10/9_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/9_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnCnnnnnnCGnnnnnnTCTGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_10_2.png')\"><span class=\"putBar\">contribution</span>: 0.33</a>",
+                "# occurrences: 17",
+                "<a href=\"singleton_motifs/12_12_10/10_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/10_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnnnnnnnGCGnnnnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_10_13.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_12_10/10_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/10_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnnnATnnnnCCGGnnnnnnnnGnnTnnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_11_12.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_10/11_12.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/11_12.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnGAnnnnnCCGGCnnnnnCGGnnnATCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_14_9.png')\"><span class=\"putBar\">contribution</span>: 0.36</a>",
+                "# occurrences: 14",
+                "<a href=\"singleton_motifs/12_12_10/14_9.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/14_9.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnnnnGnnAnnnnnnCCGnnnnnnnnGnnTCnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_15_5.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 21",
+                "<a href=\"singleton_motifs/12_12_10/15_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/15_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGnnnnnnnnnnGnnnnnnnCGGnnnnnnTCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_16_2.png')\"><span class=\"putBar\">contribution</span>: 0.38</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_12_10/16_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/16_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnGnnnnnnnnnnnnnnnnCCGGnnnTCnGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/box_20_5.png')\"><span class=\"putBar\">contribution</span>: 0.36</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_10/20_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_10/20_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnGnnGnTnGnGnGGnAnnGCCGGGnGnAGTCGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_10/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_5": {
+        "pwms": [
+            "triplet_motifs/12_12_1/1_4.png",
+            "triplet_motifs/12_12_1/18_1.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 1 are 4 nucleotides apart<br>",
+            "pattern 12 and 12 are 18 nucleotides apart<br>pattern 12 and 1 are 1 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_1/box_1_4.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 17",
+                "<a href=\"singleton_motifs/12_12_1/1_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_1/1_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGnGCGnnnnnnAnCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_1/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_1/box_18_1.png')\"><span class=\"putBar\">contribution</span>: 0.43</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/12_12_1/18_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_1/18_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnGnGnnGnnnGnnnGGnnnnGCGGnnAnACG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_1/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_21": {
+        "pwms": [
+            "triplet_motifs/7_4_4/2_0.png",
+            "triplet_motifs/7_4_4/11_5.png"
+        ],
+        "labels": [
+            "pattern 7 and 4 are 2 nucleotides apart<br>pattern 4 and 4 are 0 nucleotides apart<br>",
+            "pattern 7 and 4 are 11 nucleotides apart<br>pattern 4 and 4 are 5 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/7_4_4/box_2_0.png')\"><span class=\"putBar\">contribution</span>: -0.16</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/7_4_4/2_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/7_4_4/2_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AGnTnnnTAGnGTAGGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/7_4_4/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/7_4_4/box_11_5.png')\"><span class=\"putBar\">contribution</span>: -0.26</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/7_4_4/11_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/7_4_4/11_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AGnnnnnnnAnnnGnnTnGGnnnnnGTAGnG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/7_4_4/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_29": {
+        "pwms": [
+            "triplet_motifs/6_9_15/1_9.png"
+        ],
+        "labels": [
+            "pattern 6 and 9 are 1 nucleotides apart<br>pattern 9 and 15 are 9 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/6_9_15/box_1_9.png')\"><span class=\"putBar\">contribution</span>: -0.15</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/6_9_15/1_9.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/6_9_15/1_9.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTACAnTGTTAnnnnnnTnnnTnnA')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_11": {
+        "pwms": [
+            "triplet_motifs/12_14_3/19_1.png"
+        ],
+        "labels": [
+            "pattern 12 and 14 are 19 nucleotides apart<br>pattern 14 and 3 are 1 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_14_3/box_19_1.png')\"><span class=\"putBar\">contribution</span>: 0.29</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_14_3/19_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_14_3/19_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGCnTnnnnCTAAnnnnnnCnnGCGnnnTGTA')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_28": {
+        "pwms": [
+            "triplet_motifs/12_9_10/4_1.png"
+        ],
+        "labels": [
+            "pattern 12 and 9 are 4 nucleotides apart<br>pattern 9 and 10 are 1 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_9_10/box_4_1.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_9_10/4_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_9_10/4_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGACnnnTGTTATTCnG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_14": {
+        "pwms": [
+            "triplet_motifs/12_1_14/1_3.png",
+            "triplet_motifs/12_1_14/3_7.png",
+            "triplet_motifs/12_1_14/7_5.png"
+        ],
+        "labels": [
+            "pattern 12 and 1 are 1 nucleotides apart<br>pattern 1 and 14 are 3 nucleotides apart<br>",
+            "pattern 12 and 1 are 3 nucleotides apart<br>pattern 1 and 14 are 7 nucleotides apart<br>",
+            "pattern 12 and 1 are 7 nucleotides apart<br>pattern 1 and 14 are 5 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_1_14/box_1_3.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 16",
+                "<a href=\"singleton_motifs/12_1_14/1_3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_1_14/1_3.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnAnCnGnnnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_1_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_1_14/box_3_7.png')\"><span class=\"putBar\">contribution</span>: 0.35</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_1_14/3_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_1_14/3_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnACnCGnnnnnGGCnCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_1_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_1_14/box_7_5.png')\"><span class=\"putBar\">contribution</span>: 0.33</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_1_14/7_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_1_14/7_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGnnnnnnTACCGnnnGnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_1_14/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_16": {
+        "pwms": [
+            "triplet_motifs/12_12_14/0_5.png",
+            "triplet_motifs/12_12_14/1_0.png",
+            "triplet_motifs/12_12_14/1_4.png",
+            "triplet_motifs/12_12_14/1_11.png",
+            "triplet_motifs/12_12_14/1_13.png",
+            "triplet_motifs/12_12_14/1_14.png",
+            "triplet_motifs/12_12_14/1_15.png",
+            "triplet_motifs/12_12_14/2_15.png",
+            "triplet_motifs/12_12_14/3_11.png",
+            "triplet_motifs/12_12_14/3_15.png",
+            "triplet_motifs/12_12_14/4_1.png",
+            "triplet_motifs/12_12_14/4_6.png",
+            "triplet_motifs/12_12_14/4_7.png",
+            "triplet_motifs/12_12_14/5_4.png",
+            "triplet_motifs/12_12_14/6_8.png",
+            "triplet_motifs/12_12_14/7_6.png",
+            "triplet_motifs/12_12_14/8_6.png",
+            "triplet_motifs/12_12_14/8_8.png",
+            "triplet_motifs/12_12_14/10_0.png",
+            "triplet_motifs/12_12_14/11_1.png",
+            "triplet_motifs/12_12_14/11_2.png",
+            "triplet_motifs/12_12_14/11_5.png",
+            "triplet_motifs/12_12_14/12_12.png",
+            "triplet_motifs/12_12_14/13_13.png",
+            "triplet_motifs/12_12_14/15_0.png",
+            "triplet_motifs/12_12_14/15_3.png",
+            "triplet_motifs/12_12_14/16_0.png",
+            "triplet_motifs/12_12_14/17_11.png",
+            "triplet_motifs/12_12_14/20_4.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 0 nucleotides apart<br>pattern 12 and 14 are 5 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 14 are 0 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 14 are 4 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 14 are 11 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 14 are 13 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 14 are 14 nucleotides apart<br>",
+            "pattern 12 and 12 are 1 nucleotides apart<br>pattern 12 and 14 are 15 nucleotides apart<br>",
+            "pattern 12 and 12 are 2 nucleotides apart<br>pattern 12 and 14 are 15 nucleotides apart<br>",
+            "pattern 12 and 12 are 3 nucleotides apart<br>pattern 12 and 14 are 11 nucleotides apart<br>",
+            "pattern 12 and 12 are 3 nucleotides apart<br>pattern 12 and 14 are 15 nucleotides apart<br>",
+            "pattern 12 and 12 are 4 nucleotides apart<br>pattern 12 and 14 are 1 nucleotides apart<br>",
+            "pattern 12 and 12 are 4 nucleotides apart<br>pattern 12 and 14 are 6 nucleotides apart<br>",
+            "pattern 12 and 12 are 4 nucleotides apart<br>pattern 12 and 14 are 7 nucleotides apart<br>",
+            "pattern 12 and 12 are 5 nucleotides apart<br>pattern 12 and 14 are 4 nucleotides apart<br>",
+            "pattern 12 and 12 are 6 nucleotides apart<br>pattern 12 and 14 are 8 nucleotides apart<br>",
+            "pattern 12 and 12 are 7 nucleotides apart<br>pattern 12 and 14 are 6 nucleotides apart<br>",
+            "pattern 12 and 12 are 8 nucleotides apart<br>pattern 12 and 14 are 6 nucleotides apart<br>",
+            "pattern 12 and 12 are 8 nucleotides apart<br>pattern 12 and 14 are 8 nucleotides apart<br>",
+            "pattern 12 and 12 are 10 nucleotides apart<br>pattern 12 and 14 are 0 nucleotides apart<br>",
+            "pattern 12 and 12 are 11 nucleotides apart<br>pattern 12 and 14 are 1 nucleotides apart<br>",
+            "pattern 12 and 12 are 11 nucleotides apart<br>pattern 12 and 14 are 2 nucleotides apart<br>",
+            "pattern 12 and 12 are 11 nucleotides apart<br>pattern 12 and 14 are 5 nucleotides apart<br>",
+            "pattern 12 and 12 are 12 nucleotides apart<br>pattern 12 and 14 are 12 nucleotides apart<br>",
+            "pattern 12 and 12 are 13 nucleotides apart<br>pattern 12 and 14 are 13 nucleotides apart<br>",
+            "pattern 12 and 12 are 15 nucleotides apart<br>pattern 12 and 14 are 0 nucleotides apart<br>",
+            "pattern 12 and 12 are 15 nucleotides apart<br>pattern 12 and 14 are 3 nucleotides apart<br>",
+            "pattern 12 and 12 are 16 nucleotides apart<br>pattern 12 and 14 are 0 nucleotides apart<br>",
+            "pattern 12 and 12 are 17 nucleotides apart<br>pattern 12 and 14 are 11 nucleotides apart<br>",
+            "pattern 12 and 12 are 20 nucleotides apart<br>pattern 12 and 14 are 4 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_0_5.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 23",
+                "<a href=\"singleton_motifs/12_12_14/0_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/0_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnCCGGnnnnnnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_1_0.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 21",
+                "<a href=\"singleton_motifs/12_12_14/1_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/1_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnCCGGnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_1_4.png')\"><span class=\"putBar\">contribution</span>: 0.2</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/12_12_14/1_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/1_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnCGGnnnnnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_1_11.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_14/1_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/1_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnGCGGGnnnnnAnnnCnCGCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_1_13.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_12_14/1_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/1_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnCnCGGGnnnnnnnnnnnnnGGCGT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_1_14.png')\"><span class=\"putBar\">contribution</span>: 0.23</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_14/1_14.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/1_14.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGGAnCGGGnnnGCnGGGnnTGCCGCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_1_15.png')\"><span class=\"putBar\">contribution</span>: 0.28</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_14/1_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/1_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGGGCCGGnGnnnnnnnGnnnnnGCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_2_15.png')\"><span class=\"putBar\">contribution</span>: 0.14</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_14/2_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/2_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnCnCCGGAnnnnGCnnnGCGGnnCnCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_3_11.png')\"><span class=\"putBar\">contribution</span>: 0.33</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_14/3_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/3_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGnnGGCGGnnGnnnnAGnTnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_3_15.png')\"><span class=\"putBar\">contribution</span>: 0.3</a>",
+                "# occurrences: 13",
+                "<a href=\"singleton_motifs/12_12_14/3_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/3_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGnnnnnCCGGnnnnGnnnnnnnnnGnCGCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_4_1.png')\"><span class=\"putBar\">contribution</span>: 0.17</a>",
+                "# occurrences: 19",
+                "<a href=\"singleton_motifs/12_12_14/4_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/4_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGGnnnnnCGGnnCnCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_4_6.png')\"><span class=\"putBar\">contribution</span>: 0.28</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_14/4_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/4_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnGnnnGCGnCnnnGGnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_4_7.png')\"><span class=\"putBar\">contribution</span>: 0.23</a>",
+                "# occurrences: 17",
+                "<a href=\"singleton_motifs/12_12_14/4_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/4_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnnnCCGGGnnnnnTnCGCGT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_5_4.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 13",
+                "<a href=\"singleton_motifs/12_12_14/5_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/5_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnCTnnCCGGGnGnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_6_8.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_14/6_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/6_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnGGGCCGGGGnnnnnnnGGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_7_6.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/12_12_14/7_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/7_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGnGnGnnGGCGGGnnnnnGnTCGT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_8_6.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_12_14/8_6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/8_6.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGGnnGnCnnnCCGGnnnnGnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_8_8.png')\"><span class=\"putBar\">contribution</span>: 0.25</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_12_14/8_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/8_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGGnGnTnAnTnCGGGGnnnnnnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_10_0.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 16",
+                "<a href=\"singleton_motifs/12_12_14/10_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/10_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnnnnnnGnCCGGnnnCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_11_1.png')\"><span class=\"putBar\">contribution</span>: 0.23</a>",
+                "# occurrences: 16",
+                "<a href=\"singleton_motifs/12_12_14/11_1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/11_1.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnnnnnnnnnnCCGGnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_11_2.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 17",
+                "<a href=\"singleton_motifs/12_12_14/11_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/11_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnGnnnnnnnnnCCGnnnnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_11_5.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_12_14/11_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/11_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnAnnnnTnnnnCCGGGnnnnnCnCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_12_12.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 13",
+                "<a href=\"singleton_motifs/12_12_14/12_12.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/12_12.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnnnnnnnnnnnCGGnnnnnnnGnnnnnCGCGT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_13_13.png')\"><span class=\"putBar\">contribution</span>: 0.31</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_14/13_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/13_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnnnnnnnnnnnnCCCGGnnnnnnnnnnnnnnCGCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/12_12_14/15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnGnnnnnnnnnGnGnCCGnGCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_15_3.png')\"><span class=\"putBar\">contribution</span>: 0.26</a>",
+                "# occurrences: 9",
+                "<a href=\"singleton_motifs/12_12_14/15_3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/15_3.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnGnnnnnnTnnnGnGCGnnnnnnGCGT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_16_0.png')\"><span class=\"putBar\">contribution</span>: 0.25</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_12_14/16_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/16_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnGnnnnnGGnnnnGnnnnnCGGnCGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_17_11.png')\"><span class=\"putBar\">contribution</span>: 0.25</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_12_14/17_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/17_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnnnnnnnnnGnnnnnGnCGGnnnnGnnGnnnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/box_20_4.png')\"><span class=\"putBar\">contribution</span>: 0.42</a>",
+                "# occurrences: 13",
+                "<a href=\"singleton_motifs/12_12_14/20_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_14/20_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGnnnnnnnnnnnnnnnnnnnnCCGGGnnnnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_14/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_33": {
+        "pwms": [
+            "triplet_motifs/11_4_4/1_0.png"
+        ],
+        "labels": [
+            "pattern 11 and 4 are 1 nucleotides apart<br>pattern 4 and 4 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/11_4_4/box_1_0.png')\"><span class=\"putBar\">contribution</span>: -0.08</a>",
+                "# occurrences: 7",
+                "<a href=\"singleton_motifs/11_4_4/1_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/11_4_4/1_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTGGnGTAGGnTGGGG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_13": {
+        "pwms": [
+            "triplet_motifs/3_3_4/4_10.png"
+        ],
+        "labels": [
+            "pattern 3 and 3 are 4 nucleotides apart<br>pattern 3 and 4 are 10 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/3_3_4/box_4_10.png')\"><span class=\"putBar\">contribution</span>: -0.28</a>",
+                "# occurrences: 3",
+                "<a href=\"singleton_motifs/3_3_4/4_10.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/3_3_4/4_10.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTGTATAnAGCCTACnCGTnACnnTAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_15": {
+        "pwms": [
+            "triplet_motifs/12_12_2/3_0.png",
+            "triplet_motifs/12_12_2/3_5.png",
+            "triplet_motifs/12_12_2/3_11.png",
+            "triplet_motifs/12_12_2/3_13.png",
+            "triplet_motifs/12_12_2/11_2.png",
+            "triplet_motifs/12_12_2/12_4.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 3 nucleotides apart<br>pattern 12 and 2 are 0 nucleotides apart<br>",
+            "pattern 12 and 12 are 3 nucleotides apart<br>pattern 12 and 2 are 5 nucleotides apart<br>",
+            "pattern 12 and 12 are 3 nucleotides apart<br>pattern 12 and 2 are 11 nucleotides apart<br>",
+            "pattern 12 and 12 are 3 nucleotides apart<br>pattern 12 and 2 are 13 nucleotides apart<br>",
+            "pattern 12 and 12 are 11 nucleotides apart<br>pattern 12 and 2 are 2 nucleotides apart<br>",
+            "pattern 12 and 12 are 12 nucleotides apart<br>pattern 12 and 2 are 4 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/box_3_0.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/12_12_2/3_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_2/3_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGnnnnGCGGnnGCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/box_3_5.png')\"><span class=\"putBar\">contribution</span>: 0.25</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_12_2/3_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_2/3_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnTnnCCGnnnnnnnGGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/box_3_11.png')\"><span class=\"putBar\">contribution</span>: 0.28</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_12_2/3_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_2/3_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGnnnnnCGGnnnnnGnnnnnnnGCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/box_3_13.png')\"><span class=\"putBar\">contribution</span>: 0.28</a>",
+                "# occurrences: 10",
+                "<a href=\"singleton_motifs/12_12_2/3_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_2/3_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnnnnnCGnnnGnnnnnnnnnnnGGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/box_11_2.png')\"><span class=\"putBar\">contribution</span>: 0.29</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/12_12_2/11_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_2/11_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGnnnAnGnnnnnnCCGnnnnnGCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/box_12_4.png')\"><span class=\"putBar\">contribution</span>: 0.28</a>",
+                "# occurrences: 15",
+                "<a href=\"singleton_motifs/12_12_2/12_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_12_2/12_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnGnnnnnAnnnnnnGCGnnnnnnGGCGC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_12_2/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_24": {
+        "pwms": [
+            "triplet_motifs/12_1_10/1_18.png"
+        ],
+        "labels": [
+            "pattern 12 and 1 are 1 nucleotides apart<br>pattern 1 and 10 are 18 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_1_10/box_1_18.png')\"><span class=\"putBar\">contribution</span>: 0.17</a>",
+                "# occurrences: 8",
+                "<a href=\"singleton_motifs/12_1_10/1_18.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_1_10/1_18.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGAnACCGGnnnnnnnnnTnnnnGnnCnCnG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_10": {
+        "pwms": [
+            "triplet_motifs/12_8_14/1_16.png",
+            "triplet_motifs/12_8_14/9_7.png",
+            "triplet_motifs/12_8_14/11_2.png"
+        ],
+        "labels": [
+            "pattern 12 and 8 are 1 nucleotides apart<br>pattern 8 and 14 are 16 nucleotides apart<br>",
+            "pattern 12 and 8 are 9 nucleotides apart<br>pattern 8 and 14 are 7 nucleotides apart<br>",
+            "pattern 12 and 8 are 11 nucleotides apart<br>pattern 8 and 14 are 2 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_8_14/box_1_16.png')\"><span class=\"putBar\">contribution</span>: 0.43</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/12_8_14/1_16.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_8_14/1_16.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnnnCnnGCAnCnGnnGnGnnnnnnnnCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_8_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_8_14/box_9_7.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 3",
+                "<a href=\"singleton_motifs/12_8_14/9_7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_8_14/9_7.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGGGnGnnnnnnCCGCGnnnGGGnAnGCGG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_8_14/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('triplet_motifs/12_8_14/box_11_2.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 4",
+                "<a href=\"singleton_motifs/12_8_14/11_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('triplet_motifs/12_8_14/11_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGnnGnnnnnnnGGnCGnGCAnnGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('triplet_motifs/12_8_14/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    }
+}

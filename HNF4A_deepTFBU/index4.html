@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> motifs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>    
+    <br><br>
+    <div class="wrapper">
+
+        <div id="nav" style="display: flex; justify-content: center;"></div>
+        <br><br><br><br><br>
+        <div class="container">
+            <!-- Image Set 1 -->
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer1 class="imageContainer">
+                        <img id="img1" src="quadruplet_motifs/5_10_10_9/20_1_7.png" alt="pattern 5 and 10 are 20 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 9 are 7 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer1" class="textContainer">
+                        <p id="text1_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/5_10_10_9/box_20_1_7.png')"><span class="putBar">contribution</span>: 0.89</a></p>
+                        <p id="text1_2" class="imageText"># occurrences: 1</p>
+                        <p id="text1_3" class="imageText"><a href="singleton_motifs/5_10_10_9/20_1_7.meme">.meme file</a></p>
+                        <p id="text1_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/5_10_10_9/20_1_7.csv')">string highlight</a></p>
+                        <p id="text1_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CCCAGGGATGAAGAGCTTGGGGGTGGGAGGTCCAAAGTCCAGGAGAATGACC')">consensus string</a></p>
+                        <p id="text1_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer1 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR1" type="range" min="0" max="0" value="0">
+                    <span id="range1">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer2 class="imageContainer">
+                        <img id="img2" src="quadruplet_motifs/10_10_9_1/1_8_12.png" alt="pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 9 are 8 nucleotides apart&lt;br&gt;pattern 9 and 1 are 12 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer2" class="textContainer">
+                        <p id="text2_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_9_1/box_1_8_12.png')"><span class="putBar">contribution</span>: 0.57</a></p>
+                        <p id="text2_2" class="imageText"># occurrences: 2</p>
+                        <p id="text2_3" class="imageText"><a href="singleton_motifs/10_10_9_1/1_8_12.meme">.meme file</a></p>
+                        <p id="text2_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/10_10_9_1/1_8_12.csv')">string highlight</a></p>
+                        <p id="text2_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AAAGTCCAAnGnnnnnnnTnnnGGTTCnnnnnnGnnnnnnCAnCA')">consensus string</a></p>
+                        <p id="text2_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer2 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR2" type="range" min="0" max="0" value="0">
+                    <span id="range2">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer3 class="imageContainer">
+                        <img id="img3" src="quadruplet_motifs/6_10_10_10/0_18_19.png" alt="pattern 6 and 10 are 0 nucleotides apart&lt;br&gt;pattern 10 and 10 are 18 nucleotides apart&lt;br&gt;pattern 10 and 10 are 19 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer3" class="textContainer">
+                        <p id="text3_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/6_10_10_10/box_0_18_19.png')"><span class="putBar">contribution</span>: 0.53</a></p>
+                        <p id="text3_2" class="imageText"># occurrences: 11</p>
+                        <p id="text3_3" class="imageText"><a href="singleton_motifs/6_10_10_10/0_18_19.meme">.meme file</a></p>
+                        <p id="text3_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/6_10_10_10/0_18_19.csv')">string highlight</a></p>
+                        <p id="text3_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CTCCTCAAGGTCAGAGCTCTGATTTGAGGCAGGGTCAAAGTCCAGGGCTCTGTCCAGGGTC')">consensus string</a></p>
+                        <p id="text3_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/6_10_10_10/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer3 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR3" type="range" min="0" max="2" value="0">
+                    <span id="range3">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer4 class="imageContainer">
+                        <img id="img4" src="quadruplet_motifs/10_10_9_8/24_2_4.png" alt="pattern 10 and 10 are 24 nucleotides apart&lt;br&gt;pattern 10 and 9 are 2 nucleotides apart&lt;br&gt;pattern 9 and 8 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer4" class="textContainer">
+                        <p id="text4_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_9_8/box_24_2_4.png')"><span class="putBar">contribution</span>: 0.52</a></p>
+                        <p id="text4_2" class="imageText"># occurrences: 44</p>
+                        <p id="text4_3" class="imageText"><a href="singleton_motifs/10_10_9_8/24_2_4.meme">.meme file</a></p>
+                        <p id="text4_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/10_10_9_8/24_2_4.csv')">string highlight</a></p>
+                        <p id="text4_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AAAGTCTTAACTCATTTCAGCATTAACTCCAAAGTCCACAGTCCAAAGTCTCAT')">consensus string</a></p>
+                        <p id="text4_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer4 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR4" type="range" min="0" max="0" value="0">
+                    <span id="range4">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer5 class="imageContainer">
+                        <img id="img5" src="quadruplet_motifs/6_10_10_9/0_18_13.png" alt="pattern 6 and 10 are 0 nucleotides apart&lt;br&gt;pattern 10 and 10 are 18 nucleotides apart&lt;br&gt;pattern 10 and 9 are 13 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer5" class="textContainer">
+                        <p id="text5_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/6_10_10_9/box_0_18_13.png')"><span class="putBar">contribution</span>: 0.46</a></p>
+                        <p id="text5_2" class="imageText"># occurrences: 12</p>
+                        <p id="text5_3" class="imageText"><a href="singleton_motifs/6_10_10_9/0_18_13.meme">.meme file</a></p>
+                        <p id="text5_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/6_10_10_9/0_18_13.csv')">string highlight</a></p>
+                        <p id="text5_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CTCCTCAAGGTCAGAGCTCTGATTTGAGGCAGGGTCAAAGTCCAGGGCTCTGTCC')">consensus string</a></p>
+                        <p id="text5_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/6_10_10_9/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer5 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR5" type="range" min="0" max="2" value="0">
+                    <span id="range5">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer6 class="imageContainer">
+                        <img id="img6" src="quadruplet_motifs/10_9_9_8/25_1_4.png" alt="pattern 10 and 9 are 25 nucleotides apart&lt;br&gt;pattern 9 and 9 are 1 nucleotides apart&lt;br&gt;pattern 9 and 8 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer6" class="textContainer">
+                        <p id="text6_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/10_9_9_8/box_25_1_4.png')"><span class="putBar">contribution</span>: 0.43</a></p>
+                        <p id="text6_2" class="imageText"># occurrences: 42</p>
+                        <p id="text6_3" class="imageText"><a href="singleton_motifs/10_9_9_8/25_1_4.meme">.meme file</a></p>
+                        <p id="text6_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/10_9_9_8/25_1_4.csv')">string highlight</a></p>
+                        <p id="text6_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AAAGTCTTAACTCATTTCAGCATTAACTCCAAAGTCCACAGTCCAAAGTCTCAT')">consensus string</a></p>
+                        <p id="text6_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer6 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR6" type="range" min="0" max="0" value="0">
+                    <span id="range6">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer7 class="imageContainer">
+                        <img id="img7" src="quadruplet_motifs/7_2_8_8/12_23_3.png" alt="pattern 7 and 2 are 12 nucleotides apart&lt;br&gt;pattern 2 and 8 are 23 nucleotides apart&lt;br&gt;pattern 8 and 8 are 3 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer7" class="textContainer">
+                        <p id="text7_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/7_2_8_8/box_12_23_3.png')"><span class="putBar">contribution</span>: -0.43</a></p>
+                        <p id="text7_2" class="imageText"># occurrences: 2</p>
+                        <p id="text7_3" class="imageText"><a href="singleton_motifs/7_2_8_8/12_23_3.meme">.meme file</a></p>
+                        <p id="text7_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/7_2_8_8/12_23_3.csv')">string highlight</a></p>
+                        <p id="text7_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATCCCCnGnATnCnnnnnAGTAnCTCCTTCAAAGTCCAGAnAnnnCnTCTCnnnCACAnCnA')">consensus string</a></p>
+                        <p id="text7_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer7 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR7" type="range" min="0" max="0" value="0">
+                    <span id="range7">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer8 class="imageContainer">
+                        <img id="img8" src="quadruplet_motifs/4_8_1_1/3_1_4.png" alt="pattern 4 and 8 are 3 nucleotides apart&lt;br&gt;pattern 8 and 1 are 1 nucleotides apart&lt;br&gt;pattern 1 and 1 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer8" class="textContainer">
+                        <p id="text8_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_8_1_1/box_3_1_4.png')"><span class="putBar">contribution</span>: -0.42</a></p>
+                        <p id="text8_2" class="imageText"># occurrences: 2</p>
+                        <p id="text8_3" class="imageText"><a href="singleton_motifs/4_8_1_1/3_1_4.meme">.meme file</a></p>
+                        <p id="text8_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_8_1_1/3_1_4.csv')">string highlight</a></p>
+                        <p id="text8_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('TnCnTAnGAnATCnTTCCTTCAAAGTCCAnAC')">consensus string</a></p>
+                        <p id="text8_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer8 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR8" type="range" min="0" max="0" value="0">
+                    <span id="range8">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer9 class="imageContainer">
+                        <img id="img9" src="quadruplet_motifs/5_4_1_1/14_6_4.png" alt="pattern 5 and 4 are 14 nucleotides apart&lt;br&gt;pattern 4 and 1 are 6 nucleotides apart&lt;br&gt;pattern 1 and 1 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer9" class="textContainer">
+                        <p id="text9_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/5_4_1_1/box_14_6_4.png')"><span class="putBar">contribution</span>: -0.38</a></p>
+                        <p id="text9_2" class="imageText"># occurrences: 4</p>
+                        <p id="text9_3" class="imageText"><a href="singleton_motifs/5_4_1_1/14_6_4.meme">.meme file</a></p>
+                        <p id="text9_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/5_4_1_1/14_6_4.csv')">string highlight</a></p>
+                        <p id="text9_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CTAGGnnnCCCCAnGnnnCTTAGnAnTAnnTCCnTCAAAGTCCAGAC')">consensus string</a></p>
+                        <p id="text9_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer9 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR9" type="range" min="0" max="0" value="0">
+                    <span id="range9">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer10 class="imageContainer">
+                        <img id="img10" src="quadruplet_motifs/10_10_9_9/1_1_6.png" alt="pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 9 are 1 nucleotides apart&lt;br&gt;pattern 9 and 9 are 6 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer10" class="textContainer">
+                        <p id="text10_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_9_9/box_1_1_6.png')"><span class="putBar">contribution</span>: 0.4</a></p>
+                        <p id="text10_2" class="imageText"># occurrences: 9</p>
+                        <p id="text10_3" class="imageText"><a href="singleton_motifs/10_10_9_9/1_1_6.meme">.meme file</a></p>
+                        <p id="text10_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/10_10_9_9/1_1_6.csv')">string highlight</a></p>
+                        <p id="text10_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AAAGTCTGAGGTCAAAGTCCAAACTTTAGATC')">consensus string</a></p>
+                        <p id="text10_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_9_9/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer10 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR10" type="range" min="0" max="7" value="0">
+                    <span id="range10">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer11 class="imageContainer">
+                        <img id="img11" src="quadruplet_motifs/4_6_7_7/7_20_8.png" alt="pattern 4 and 6 are 7 nucleotides apart&lt;br&gt;pattern 6 and 7 are 20 nucleotides apart&lt;br&gt;pattern 7 and 7 are 8 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer11" class="textContainer">
+                        <p id="text11_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_6_7_7/box_7_20_8.png')"><span class="putBar">contribution</span>: -0.34</a></p>
+                        <p id="text11_2" class="imageText"># occurrences: 2</p>
+                        <p id="text11_3" class="imageText"><a href="singleton_motifs/4_6_7_7/7_20_8.meme">.meme file</a></p>
+                        <p id="text11_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_6_7_7/7_20_8.csv')">string highlight</a></p>
+                        <p id="text11_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CCCnAAnnGTAnCnCCnTCAAAGTCCAGACnAGAnTTCTATnCCAnnCCnnnAAnnCC')">consensus string</a></p>
+                        <p id="text11_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer11 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR11" type="range" min="0" max="0" value="0">
+                    <span id="range11">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer12 class="imageContainer">
+                        <img id="img12" src="quadruplet_motifs/5_2_10_10/15_6_6.png" alt="pattern 5 and 2 are 15 nucleotides apart&lt;br&gt;pattern 2 and 10 are 6 nucleotides apart&lt;br&gt;pattern 10 and 10 are 6 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer12" class="textContainer">
+                        <p id="text12_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/5_2_10_10/box_15_6_6.png')"><span class="putBar">contribution</span>: 0.33</a></p>
+                        <p id="text12_2" class="imageText"># occurrences: 10</p>
+                        <p id="text12_3" class="imageText"><a href="singleton_motifs/5_2_10_10/15_6_6.meme">.meme file</a></p>
+                        <p id="text12_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/5_2_10_10/15_6_6.csv')">string highlight</a></p>
+                        <p id="text12_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('TCCAGGTTAAAGACATGTCAGAGGCCCAGGTTCAAAGTCCAGGTCAAGGTC')">consensus string</a></p>
+                        <p id="text12_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer12 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR12" type="range" min="0" max="0" value="0">
+                    <span id="range12">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer13 class="imageContainer">
+                        <img id="img13" src="quadruplet_motifs/2_10_10_10/8_8_1.png" alt="pattern 2 and 10 are 8 nucleotides apart&lt;br&gt;pattern 10 and 10 are 8 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer13" class="textContainer">
+                        <p id="text13_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/2_10_10_10/box_8_8_1.png')"><span class="putBar">contribution</span>: 0.34</a></p>
+                        <p id="text13_2" class="imageText"># occurrences: 8</p>
+                        <p id="text13_3" class="imageText"><a href="singleton_motifs/2_10_10_10/8_8_1.meme">.meme file</a></p>
+                        <p id="text13_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/2_10_10_10/8_8_1.csv')">string highlight</a></p>
+                        <p id="text13_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AGGATCAAAGnTCAAAGGTCCAAnGTCCAAAGTCCAAAGTC')">consensus string</a></p>
+                        <p id="text13_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/2_10_10_10/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer13 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR13" type="range" min="0" max="3" value="0">
+                    <span id="range13">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer14 class="imageContainer">
+                        <img id="img14" src="quadruplet_motifs/4_1_1_1/6_4_8.png" alt="pattern 4 and 1 are 6 nucleotides apart&lt;br&gt;pattern 1 and 1 are 4 nucleotides apart&lt;br&gt;pattern 1 and 1 are 8 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer14" class="textContainer">
+                        <p id="text14_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_1_1_1/box_6_4_8.png')"><span class="putBar">contribution</span>: -0.32</a></p>
+                        <p id="text14_2" class="imageText"># occurrences: 12</p>
+                        <p id="text14_3" class="imageText"><a href="singleton_motifs/4_1_1_1/6_4_8.meme">.meme file</a></p>
+                        <p id="text14_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_1_1_1/6_4_8.csv')">string highlight</a></p>
+                        <p id="text14_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('TAGTAnTnnnTCCTTCAAAGTCCAGACnAGAnCnCCCATCC')">consensus string</a></p>
+                        <p id="text14_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer14 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR14" type="range" min="0" max="0" value="0">
+                    <span id="range14">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer15 class="imageContainer">
+                        <img id="img15" src="quadruplet_motifs/7_1_1_1/19_4_27.png" alt="pattern 7 and 1 are 19 nucleotides apart&lt;br&gt;pattern 1 and 1 are 4 nucleotides apart&lt;br&gt;pattern 1 and 1 are 27 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer15" class="textContainer">
+                        <p id="text15_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/7_1_1_1/box_19_4_27.png')"><span class="putBar">contribution</span>: -0.32</a></p>
+                        <p id="text15_2" class="imageText"># occurrences: 7</p>
+                        <p id="text15_3" class="imageText"><a href="singleton_motifs/7_1_1_1/19_4_27.meme">.meme file</a></p>
+                        <p id="text15_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/7_1_1_1/19_4_27.csv')">string highlight</a></p>
+                        <p id="text15_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATnCCCAnGAnACnTTAnAGTATCTCCTTCAAAGTCCAGACAAGACCTCTAnAACnCATCnATnACCCCCAGnC')">consensus string</a></p>
+                        <p id="text15_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer15 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR15" type="range" min="0" max="0" value="0">
+                    <span id="range15">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer16 class="imageContainer">
+                        <img id="img16" src="quadruplet_motifs/5_5_10_10/18_3_6.png" alt="pattern 5 and 5 are 18 nucleotides apart&lt;br&gt;pattern 5 and 10 are 3 nucleotides apart&lt;br&gt;pattern 10 and 10 are 6 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer16" class="textContainer">
+                        <p id="text16_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/5_5_10_10/box_18_3_6.png')"><span class="putBar">contribution</span>: 0.32</a></p>
+                        <p id="text16_2" class="imageText"># occurrences: 10</p>
+                        <p id="text16_3" class="imageText"><a href="singleton_motifs/5_5_10_10/18_3_6.meme">.meme file</a></p>
+                        <p id="text16_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/5_5_10_10/18_3_6.csv')">string highlight</a></p>
+                        <p id="text16_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('TCCAGGTTAAAGACATGTCAGAGGCCCAGGTTCAAAGTCCAGGTCAAGGTC')">consensus string</a></p>
+                        <p id="text16_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer16 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR16" type="range" min="0" max="0" value="0">
+                    <span id="range16">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer17 class="imageContainer">
+                        <img id="img17" src="quadruplet_motifs/4_10_10_9/15_8_9.png" alt="pattern 4 and 10 are 15 nucleotides apart&lt;br&gt;pattern 10 and 10 are 8 nucleotides apart&lt;br&gt;pattern 10 and 9 are 9 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer17" class="textContainer">
+                        <p id="text17_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_10_10_9/box_15_8_9.png')"><span class="putBar">contribution</span>: 0.24</a></p>
+                        <p id="text17_2" class="imageText"># occurrences: 15</p>
+                        <p id="text17_3" class="imageText"><a href="singleton_motifs/4_10_10_9/15_8_9.meme">.meme file</a></p>
+                        <p id="text17_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_10_10_9/15_8_9.csv')">string highlight</a></p>
+                        <p id="text17_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ACCCAAnCAGGGCAAAGTTCAAAGGTCAAAGGTCCAAAGTCCAAAGTCCAAAGTTC')">consensus string</a></p>
+                        <p id="text17_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/4_10_10_9/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer17 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR17" type="range" min="0" max="4" value="0">
+                    <span id="range17">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer18 class="imageContainer">
+                        <img id="img18" src="quadruplet_motifs/5_4_6_1/14_5_5.png" alt="pattern 5 and 4 are 14 nucleotides apart&lt;br&gt;pattern 4 and 6 are 5 nucleotides apart&lt;br&gt;pattern 6 and 1 are 5 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer18" class="textContainer">
+                        <p id="text18_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/5_4_6_1/box_14_5_5.png')"><span class="putBar">contribution</span>: -0.32</a></p>
+                        <p id="text18_2" class="imageText"># occurrences: 4</p>
+                        <p id="text18_3" class="imageText"><a href="singleton_motifs/5_4_6_1/14_5_5.meme">.meme file</a></p>
+                        <p id="text18_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/5_4_6_1/14_5_5.csv')">string highlight</a></p>
+                        <p id="text18_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CTAGGnnnCCCCAnGnnnCTTAGnAnTAnnTCCnTCAAAGTCCAGAC')">consensus string</a></p>
+                        <p id="text18_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer18 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR18" type="range" min="0" max="0" value="0">
+                    <span id="range18">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer19 class="imageContainer">
+                        <img id="img19" src="quadruplet_motifs/7_7_1_1/3_10_4.png" alt="pattern 7 and 7 are 3 nucleotides apart&lt;br&gt;pattern 7 and 1 are 10 nucleotides apart&lt;br&gt;pattern 1 and 1 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer19" class="textContainer">
+                        <p id="text19_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/7_7_1_1/box_3_10_4.png')"><span class="putBar">contribution</span>: -0.23</a></p>
+                        <p id="text19_2" class="imageText"># occurrences: 10</p>
+                        <p id="text19_3" class="imageText"><a href="singleton_motifs/7_7_1_1/3_10_4.meme">.meme file</a></p>
+                        <p id="text19_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/7_7_1_1/3_10_4.csv')">string highlight</a></p>
+                        <p id="text19_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATnCCCAnGATnCCCAnnAGTATCCCCATCAAAGTCCAGAC')">consensus string</a></p>
+                        <p id="text19_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/7_7_1_1/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer19 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR19" type="range" min="0" max="4" value="0">
+                    <span id="range19">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer20 class="imageContainer">
+                        <img id="img20" src="quadruplet_motifs/2_10_9_1/6_17_0.png" alt="pattern 2 and 10 are 6 nucleotides apart&lt;br&gt;pattern 10 and 9 are 17 nucleotides apart&lt;br&gt;pattern 9 and 1 are 0 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer20" class="textContainer">
+                        <p id="text20_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/2_10_9_1/box_6_17_0.png')"><span class="putBar">contribution</span>: 0.31</a></p>
+                        <p id="text20_2" class="imageText"># occurrences: 2</p>
+                        <p id="text20_3" class="imageText"><a href="singleton_motifs/2_10_9_1/6_17_0.meme">.meme file</a></p>
+                        <p id="text20_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/2_10_9_1/6_17_0.csv')">string highlight</a></p>
+                        <p id="text20_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AGnACCTCCTTCAAAGTCCAGACnnGnGTnCTAnGnAGAnCCCATA')">consensus string</a></p>
+                        <p id="text20_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer20 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR20" type="range" min="0" max="0" value="0">
+                    <span id="range20">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer21 class="imageContainer">
+                        <img id="img21" src="quadruplet_motifs/4_6_1_1/5_5_8.png" alt="pattern 4 and 6 are 5 nucleotides apart&lt;br&gt;pattern 6 and 1 are 5 nucleotides apart&lt;br&gt;pattern 1 and 1 are 8 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer21" class="textContainer">
+                        <p id="text21_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_6_1_1/box_5_5_8.png')"><span class="putBar">contribution</span>: -0.31</a></p>
+                        <p id="text21_2" class="imageText"># occurrences: 11</p>
+                        <p id="text21_3" class="imageText"><a href="singleton_motifs/4_6_1_1/5_5_8.meme">.meme file</a></p>
+                        <p id="text21_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_6_1_1/5_5_8.csv')">string highlight</a></p>
+                        <p id="text21_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('TTAGTAnTAnTTCCTTCAAAGTCCAGACnAGAACCCCCATCC')">consensus string</a></p>
+                        <p id="text21_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer21 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR21" type="range" min="0" max="0" value="0">
+                    <span id="range21">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer22 class="imageContainer">
+                        <img id="img22" src="quadruplet_motifs/4_10_10_10/15_8_1.png" alt="pattern 4 and 10 are 15 nucleotides apart&lt;br&gt;pattern 10 and 10 are 8 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer22" class="textContainer">
+                        <p id="text22_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_10_10_10/box_15_8_1.png')"><span class="putBar">contribution</span>: 0.29</a></p>
+                        <p id="text22_2" class="imageText"># occurrences: 26</p>
+                        <p id="text22_3" class="imageText"><a href="singleton_motifs/4_10_10_10/15_8_1.meme">.meme file</a></p>
+                        <p id="text22_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_10_10_10/15_8_1.csv')">string highlight</a></p>
+                        <p id="text22_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AnCCAAnnAGnnCAAAGTTCAAAGGTCAAAGGTCCAAAGTCCAAAGTC')">consensus string</a></p>
+                        <p id="text22_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/4_10_10_10/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer22 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR22" type="range" min="0" max="13" value="0">
+                    <span id="range22">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer23 class="imageContainer">
+                        <img id="img23" src="quadruplet_motifs/10_10_10_9/1_1_2.png" alt="pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 9 are 2 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer23" class="textContainer">
+                        <p id="text23_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_10_9/box_1_1_2.png')"><span class="putBar">contribution</span>: 0.42</a></p>
+                        <p id="text23_2" class="imageText"># occurrences: 778</p>
+                        <p id="text23_3" class="imageText"><a href="singleton_motifs/10_10_10_9/1_1_2.meme">.meme file</a></p>
+                        <p id="text23_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/10_10_10_9/1_1_2.csv')">string highlight</a></p>
+                        <p id="text23_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AAGGTCCAAGGTCCAAAGTCCAAAGTCC')">consensus string</a></p>
+                        <p id="text23_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_10_9/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer23 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR23" type="range" min="0" max="11" value="0">
+                    <span id="range23">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer24 class="imageContainer">
+                        <img id="img24" src="quadruplet_motifs/2_9_9_8/7_1_4.png" alt="pattern 2 and 9 are 7 nucleotides apart&lt;br&gt;pattern 9 and 9 are 1 nucleotides apart&lt;br&gt;pattern 9 and 8 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer24" class="textContainer">
+                        <p id="text24_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/2_9_9_8/box_7_1_4.png')"><span class="putBar">contribution</span>: 0.28</a></p>
+                        <p id="text24_2" class="imageText"># occurrences: 3</p>
+                        <p id="text24_3" class="imageText"><a href="singleton_motifs/2_9_9_8/7_1_4.meme">.meme file</a></p>
+                        <p id="text24_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/2_9_9_8/7_1_4.csv')">string highlight</a></p>
+                        <p id="text24_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AGCATCAACTCCAAAGTCCACAGTCCAAAGTCTCAT')">consensus string</a></p>
+                        <p id="text24_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer24 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR24" type="range" min="0" max="0" value="0">
+                    <span id="range24">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer25 class="imageContainer">
+                        <img id="img25" src="quadruplet_motifs/10_10_10_10/1_1_1.png" alt="pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer25" class="textContainer">
+                        <p id="text25_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_10_10/box_1_1_1.png')"><span class="putBar">contribution</span>: 0.4</a></p>
+                        <p id="text25_2" class="imageText"># occurrences: 1361</p>
+                        <p id="text25_3" class="imageText"><a href="singleton_motifs/10_10_10_10/1_1_1.meme">.meme file</a></p>
+                        <p id="text25_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/10_10_10_10/1_1_1.csv')">string highlight</a></p>
+                        <p id="text25_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AAGGTCCAAAGTCCAAAGTCCAAAGTC')">consensus string</a></p>
+                        <p id="text25_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/10_10_10_10/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer25 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR25" type="range" min="0" max="96" value="0">
+                    <span id="range25">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer26 class="imageContainer">
+                        <img id="img26" src="quadruplet_motifs/5_4_6_8/14_5_30.png" alt="pattern 5 and 4 are 14 nucleotides apart&lt;br&gt;pattern 4 and 6 are 5 nucleotides apart&lt;br&gt;pattern 6 and 8 are 30 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer26" class="textContainer">
+                        <p id="text26_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/5_4_6_8/box_14_5_30.png')"><span class="putBar">contribution</span>: -0.27</a></p>
+                        <p id="text26_2" class="imageText"># occurrences: 4</p>
+                        <p id="text26_3" class="imageText"><a href="singleton_motifs/5_4_6_8/14_5_30.meme">.meme file</a></p>
+                        <p id="text26_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/5_4_6_8/14_5_30.csv')">string highlight</a></p>
+                        <p id="text26_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CTAGGnnnCCCCAnGnnnCTTAGnAnTAnnTCCnTCAAAGTCCAGACAAGACCnCnnAnCCAnnnCCATCC')">consensus string</a></p>
+                        <p id="text26_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer26 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR26" type="range" min="0" max="0" value="0">
+                    <span id="range26">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer27 class="imageContainer">
+                        <img id="img27" src="quadruplet_motifs/7_2_1_1/3_1_4.png" alt="pattern 7 and 2 are 3 nucleotides apart&lt;br&gt;pattern 2 and 1 are 1 nucleotides apart&lt;br&gt;pattern 1 and 1 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer27" class="textContainer">
+                        <p id="text27_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/7_2_1_1/box_3_1_4.png')"><span class="putBar">contribution</span>: -0.27</a></p>
+                        <p id="text27_2" class="imageText"># occurrences: 38</p>
+                        <p id="text27_3" class="imageText"><a href="singleton_motifs/7_2_1_1/3_1_4.meme">.meme file</a></p>
+                        <p id="text27_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/7_2_1_1/3_1_4.csv')">string highlight</a></p>
+                        <p id="text27_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATCCCTAAnAGTATCnCCATCAAAGTCCAGAC')">consensus string</a></p>
+                        <p id="text27_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer27 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR27" type="range" min="0" max="0" value="0">
+                    <span id="range27">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer28 class="imageContainer">
+                        <img id="img28" src="quadruplet_motifs/2_10_9_8/6_2_4.png" alt="pattern 2 and 10 are 6 nucleotides apart&lt;br&gt;pattern 10 and 9 are 2 nucleotides apart&lt;br&gt;pattern 9 and 8 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer28" class="textContainer">
+                        <p id="text28_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/2_10_9_8/box_6_2_4.png')"><span class="putBar">contribution</span>: 0.26</a></p>
+                        <p id="text28_2" class="imageText"># occurrences: 3</p>
+                        <p id="text28_3" class="imageText"><a href="singleton_motifs/2_10_9_8/6_2_4.meme">.meme file</a></p>
+                        <p id="text28_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/2_10_9_8/6_2_4.csv')">string highlight</a></p>
+                        <p id="text28_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AGCATCAACTCCAAAGTCCACAGTCCAAAGTCTCAT')">consensus string</a></p>
+                        <p id="text28_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer28 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR28" type="range" min="0" max="0" value="0">
+                    <span id="range28">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer29 class="imageContainer">
+                        <img id="img29" src="quadruplet_motifs/10_9_9_9/2_24_9.png" alt="pattern 10 and 9 are 2 nucleotides apart&lt;br&gt;pattern 9 and 9 are 24 nucleotides apart&lt;br&gt;pattern 9 and 9 are 9 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer29" class="textContainer">
+                        <p id="text29_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/10_9_9_9/box_2_24_9.png')"><span class="putBar">contribution</span>: 0.26</a></p>
+                        <p id="text29_2" class="imageText"># occurrences: 31</p>
+                        <p id="text29_3" class="imageText"><a href="singleton_motifs/10_9_9_9/2_24_9.meme">.meme file</a></p>
+                        <p id="text29_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/10_9_9_9/2_24_9.csv')">string highlight</a></p>
+                        <p id="text29_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('AAGGTCAGATGATCAAAGGTCAGATGATCAAAGGTCAGATGATCAAAGGTCGGATGATC')">consensus string</a></p>
+                        <p id="text29_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer29 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR29" type="range" min="0" max="0" value="0">
+                    <span id="range29">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer30 class="imageContainer">
+                        <img id="img30" src="quadruplet_motifs/7_7_8_8/12_7_48.png" alt="pattern 7 and 7 are 12 nucleotides apart&lt;br&gt;pattern 7 and 8 are 7 nucleotides apart&lt;br&gt;pattern 8 and 8 are 48 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer30" class="textContainer">
+                        <p id="text30_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/7_7_8_8/box_12_7_48.png')"><span class="putBar">contribution</span>: -0.25</a></p>
+                        <p id="text30_2" class="imageText"># occurrences: 1</p>
+                        <p id="text30_3" class="imageText"><a href="singleton_motifs/7_7_8_8/12_7_48.meme">.meme file</a></p>
+                        <p id="text30_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/7_7_8_8/12_7_48.csv')">string highlight</a></p>
+                        <p id="text30_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATACCAGGACCCTCCTGGATTCTCAGGAGTCTCTCCTTCAAAGTCCAGACAGGAAACCTTACAAATACCCACCGCACCCAGCCACTATCAC')">consensus string</a></p>
+                        <p id="text30_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer30 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR30" type="range" min="0" max="0" value="0">
+                    <span id="range30">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer31 class="imageContainer">
+                        <img id="img31" src="quadruplet_motifs/6_7_1_1/5_19_4.png" alt="pattern 6 and 7 are 5 nucleotides apart&lt;br&gt;pattern 7 and 1 are 19 nucleotides apart&lt;br&gt;pattern 1 and 1 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer31" class="textContainer">
+                        <p id="text31_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/6_7_1_1/box_5_19_4.png')"><span class="putBar">contribution</span>: -0.25</a></p>
+                        <p id="text31_2" class="imageText"># occurrences: 8</p>
+                        <p id="text31_3" class="imageText"><a href="singleton_motifs/6_7_1_1/5_19_4.meme">.meme file</a></p>
+                        <p id="text31_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/6_7_1_1/5_19_4.csv')">string highlight</a></p>
+                        <p id="text31_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATCnCCnnAGAATCCCCnGGATCCCnAGnnGTATCCCCnTCAAAGTCCAGAC')">consensus string</a></p>
+                        <p id="text31_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer31 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR31" type="range" min="0" max="0" value="0">
+                    <span id="range31">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer32 class="imageContainer">
+                        <img id="img32" src="quadruplet_motifs/5_10_10_10/17_1_1.png" alt="pattern 5 and 10 are 17 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;pattern 10 and 10 are 1 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer32" class="textContainer">
+                        <p id="text32_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/5_10_10_10/box_17_1_1.png')"><span class="putBar">contribution</span>: 0.31</a></p>
+                        <p id="text32_2" class="imageText"># occurrences: 56</p>
+                        <p id="text32_3" class="imageText"><a href="singleton_motifs/5_10_10_10/17_1_1.meme">.meme file</a></p>
+                        <p id="text32_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/5_10_10_10/17_1_1.csv')">string highlight</a></p>
+                        <p id="text32_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ACCAGGnCAAAGTTCAAAGGTCCAAGGTCCAAAGTCCAAAGTC')">consensus string</a></p>
+                        <p id="text32_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/5_10_10_10/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer32 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR32" type="range" min="0" max="3" value="0">
+                    <span id="range32">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer33 class="imageContainer">
+                        <img id="img33" src="quadruplet_motifs/7_8_1_1/16_7_27.png" alt="pattern 7 and 8 are 16 nucleotides apart&lt;br&gt;pattern 8 and 1 are 7 nucleotides apart&lt;br&gt;pattern 1 and 1 are 27 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer33" class="textContainer">
+                        <p id="text33_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/7_8_1_1/box_16_7_27.png')"><span class="putBar">contribution</span>: -0.24</a></p>
+                        <p id="text33_2" class="imageText"># occurrences: 5</p>
+                        <p id="text33_3" class="imageText"><a href="singleton_motifs/7_8_1_1/16_7_27.meme">.meme file</a></p>
+                        <p id="text33_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/7_8_1_1/16_7_27.csv')">string highlight</a></p>
+                        <p id="text33_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATACCCAnGAnACnTTnGAGTATCTCCTTCAAAGTCCAGACAGGACCTCCACnACnCATCnATnACCnCCAGnC')">consensus string</a></p>
+                        <p id="text33_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer33 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR33" type="range" min="0" max="0" value="0">
+                    <span id="range33">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer34 class="imageContainer">
+                        <img id="img34" src="quadruplet_motifs/4_6_2_8/8_11_9.png" alt="pattern 4 and 6 are 8 nucleotides apart&lt;br&gt;pattern 6 and 2 are 11 nucleotides apart&lt;br&gt;pattern 2 and 8 are 9 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer34" class="textContainer">
+                        <p id="text34_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_6_2_8/box_8_11_9.png')"><span class="putBar">contribution</span>: -0.23</a></p>
+                        <p id="text34_2" class="imageText"># occurrences: 9</p>
+                        <p id="text34_3" class="imageText"><a href="singleton_motifs/4_6_2_8/8_11_9.meme">.meme file</a></p>
+                        <p id="text34_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_6_2_8/8_11_9.csv')">string highlight</a></p>
+                        <p id="text34_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('TCCTTAGnAnTCCCTCCTTCAAAGTCCAGACAGGAATnCTnAnCCACACCCA')">consensus string</a></p>
+                        <p id="text34_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer34 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR34" type="range" min="0" max="0" value="0">
+                    <span id="range34">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer35 class="imageContainer">
+                        <img id="img35" src="quadruplet_motifs/4_10_9_9/15_2_15.png" alt="pattern 4 and 10 are 15 nucleotides apart&lt;br&gt;pattern 10 and 9 are 2 nucleotides apart&lt;br&gt;pattern 9 and 9 are 15 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer35" class="textContainer">
+                        <p id="text35_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/4_10_9_9/box_15_2_15.png')"><span class="putBar">contribution</span>: 0.22</a></p>
+                        <p id="text35_2" class="imageText"># occurrences: 15</p>
+                        <p id="text35_3" class="imageText"><a href="singleton_motifs/4_10_9_9/15_2_15.meme">.meme file</a></p>
+                        <p id="text35_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/4_10_9_9/15_2_15.csv')">string highlight</a></p>
+                        <p id="text35_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ACCCAAnCAGGGCAAAGTTCAAAGGTCAAAGGTCCAAAGTCCAAAGTCCAAAGTTC')">consensus string</a></p>
+                        <p id="text35_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer35 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR35" type="range" min="0" max="0" value="0">
+                    <span id="range35">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer36 class="imageContainer">
+                        <img id="img36" src="quadruplet_motifs/7_7_8_1/3_7_7.png" alt="pattern 7 and 7 are 3 nucleotides apart&lt;br&gt;pattern 7 and 8 are 7 nucleotides apart&lt;br&gt;pattern 8 and 1 are 7 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer36" class="textContainer">
+                        <p id="text36_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/7_7_8_1/box_3_7_7.png')"><span class="putBar">contribution</span>: -0.14</a></p>
+                        <p id="text36_2" class="imageText"># occurrences: 9</p>
+                        <p id="text36_3" class="imageText"><a href="singleton_motifs/7_7_8_1/3_7_7.meme">.meme file</a></p>
+                        <p id="text36_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/7_7_8_1/3_7_7.csv')">string highlight</a></p>
+                        <p id="text36_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('ATCCCCAGGATCCCCAnnAGTATCCCCATCAAAGTCCAGAC')">consensus string</a></p>
+                        <p id="text36_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/7_7_8_1/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer36 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR36" type="range" min="0" max="2" value="0">
+                    <span id="range36">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer37 class="imageContainer">
+                        <img id="img37" src="quadruplet_motifs/6_7_7_2/20_8_12.png" alt="pattern 6 and 7 are 20 nucleotides apart&lt;br&gt;pattern 7 and 7 are 8 nucleotides apart&lt;br&gt;pattern 7 and 2 are 12 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer37" class="textContainer">
+                        <p id="text37_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/6_7_7_2/box_20_8_12.png')"><span class="putBar">contribution</span>: -0.17</a></p>
+                        <p id="text37_2" class="imageText"># occurrences: 2</p>
+                        <p id="text37_3" class="imageText"><a href="singleton_motifs/6_7_7_2/20_8_12.meme">.meme file</a></p>
+                        <p id="text37_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/6_7_7_2/20_8_12.csv')">string highlight</a></p>
+                        <p id="text37_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CCCATCAAAGTCCAGACGnGnnTTCTATACCAnnCCnAGnAnCCCCnAGnACCCCCTnnGGAnC')">consensus string</a></p>
+                        <p id="text37_6" class="imageText"><a href="#4" onclick="openHtmlWindowImg('quadruplet_motifs/6_7_7_2/gaps.png')">gap histogram</a></p>
+                    </div>
+                </div>
+                <div id=slideContainer37 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR37" type="range" min="0" max="1" value="0">
+                    <span id="range37">Image 1</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="scripts4.js"></script>
+    <!-- Modal Structure -->
+    <div id="highlightModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="highlightedSequences"></div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for clustering -->
+    <div id="highlightModal_cluster">
+        <div id="highlightContent">
+            <span class="close" onclick="closeModal_cluster()">&times;</span>
+            <div class="modal-column">
+                <img id="modalImage" src="" alt="Image">
+            </div>
+            <div class="modal-column">
+                <p id="modalText">This is placeholder text. You can replace it with dynamic content as needed.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for consensus_str -->
+    <div id="highlightModal_text">
+        <div id="highlightModal_text_content">
+            <span class="close" onclick="closeModal_text()">&times;</span>
+            <div class="modal-column">
+                <p id="modalText1"> This is placeholder text. You can replace it with dynamic content as needed.</p>
+                <button id="copyButton" onclick="copyText()">copy string</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for just image -->
+    <div id="highlightModal_img">
+        <div id="highlightModal_img_content">
+            <span class="close" onclick="closeModal_img()">&times;</span>
+            <div class="modal-column">
+                <img id="modalImage1" src="" alt="Image">
+            </div>
+        </div>
+    </div>
+</body></html>

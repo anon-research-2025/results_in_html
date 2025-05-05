@@ -1,0 +1,182 @@
+{
+    "mode_3": {
+        "pwms": [
+            "singleton_motifs/5.png"
+        ],
+        "labels": [
+            "pattern 5"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_5.png')\"><span class=\"putBar\">contribution</span>: -0.04</a>",
+                "# occurrences: 15917",
+                "<a href=\"singleton_motifs/5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/5.csv')\">string highlight</a>",
+                "TCCAGG",
+                ""
+            ]
+        ]
+    },
+    "mode_7": {
+        "pwms": [
+            "singleton_motifs/6.png"
+        ],
+        "labels": [
+            "pattern 6"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_6.png')\"><span class=\"putBar\">contribution</span>: -0.03</a>",
+                "# occurrences: 16100",
+                "<a href=\"singleton_motifs/6.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/6.csv')\">string highlight</a>",
+                "TCnTC",
+                ""
+            ]
+        ]
+    },
+    "mode_9": {
+        "pwms": [
+            "singleton_motifs/1.png"
+        ],
+        "labels": [
+            "pattern 1"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_1.png')\"><span class=\"putBar\">contribution</span>: -0.02</a>",
+                "# occurrences: 20766",
+                "<a href=\"singleton_motifs/1.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/1.csv')\">string highlight</a>",
+                "CCAGCC",
+                ""
+            ]
+        ]
+    },
+    "mode_6": {
+        "pwms": [
+            "singleton_motifs/2.png"
+        ],
+        "labels": [
+            "pattern 2"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_2.png')\"><span class=\"putBar\">contribution</span>: -0.03</a>",
+                "# occurrences: 14895",
+                "<a href=\"singleton_motifs/2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/2.csv')\">string highlight</a>",
+                "AGnAnC",
+                ""
+            ]
+        ]
+    },
+    "mode_2": {
+        "pwms": [
+            "singleton_motifs/9.png"
+        ],
+        "labels": [
+            "pattern 9"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_9.png')\"><span class=\"putBar\">contribution</span>: 0.05</a>",
+                "# occurrences: 22156",
+                "<a href=\"singleton_motifs/9.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/9.csv')\">string highlight</a>",
+                "AAGTCC",
+                ""
+            ]
+        ]
+    },
+    "mode_1": {
+        "pwms": [
+            "singleton_motifs/10.png"
+        ],
+        "labels": [
+            "pattern 10"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_10.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 19050",
+                "<a href=\"singleton_motifs/10.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/10.csv')\">string highlight</a>",
+                "AAAGTC",
+                ""
+            ]
+        ]
+    },
+    "mode_8": {
+        "pwms": [
+            "singleton_motifs/8.png"
+        ],
+        "labels": [
+            "pattern 8"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_8.png')\"><span class=\"putBar\">contribution</span>: -0.02</a>",
+                "# occurrences: 16261",
+                "<a href=\"singleton_motifs/8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/8.csv')\">string highlight</a>",
+                "TnTCC",
+                ""
+            ]
+        ]
+    },
+    "mode_10": {
+        "pwms": [
+            "singleton_motifs/3.png"
+        ],
+        "labels": [
+            "pattern 3"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_3.png')\"><span class=\"putBar\">contribution</span>: -0.01</a>",
+                "# occurrences: 13575",
+                "<a href=\"singleton_motifs/3.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/3.csv')\">string highlight</a>",
+                "AnnTnC",
+                ""
+            ]
+        ]
+    },
+    "mode_5": {
+        "pwms": [
+            "singleton_motifs/4.png"
+        ],
+        "labels": [
+            "pattern 4"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_4.png')\"><span class=\"putBar\">contribution</span>: -0.03</a>",
+                "# occurrences: 13610",
+                "<a href=\"singleton_motifs/4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/4.csv')\">string highlight</a>",
+                "CCCAA",
+                ""
+            ]
+        ]
+    },
+    "mode_4": {
+        "pwms": [
+            "singleton_motifs/7.png"
+        ],
+        "labels": [
+            "pattern 7"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('singleton_motifs/box_7.png')\"><span class=\"putBar\">contribution</span>: -0.04</a>",
+                "# occurrences: 7413",
+                "<a href=\"singleton_motifs/7.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('singleton_motifs/7.csv')\">string highlight</a>",
+                "ATACCC",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "mode_3": {
+        "pwms": [
+            "quadruplet_motifs/12_14_14_10/3_8_4.png"
+        ],
+        "labels": [
+            "pattern 12 and 14 are 3 nucleotides apart<br>pattern 14 and 14 are 8 nucleotides apart<br>pattern 14 and 10 are 4 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/12_14_14_10/box_3_8_4.png')\"><span class=\"putBar\">contribution</span>: 0.49</a>",
+                "# occurrences: 1",
+                "<a href=\"singleton_motifs/12_14_14_10/3_8_4.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/12_14_14_10/3_8_4.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGAAGAACGCGGGCGTGACGCGCGGTCTCTCGGG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_2": {
+        "pwms": [
+            "quadruplet_motifs/12_12_12_10/12_16_2.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 12 nucleotides apart<br>pattern 12 and 12 are 16 nucleotides apart<br>pattern 12 and 10 are 2 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/12_12_12_10/box_12_16_2.png')\"><span class=\"putBar\">contribution</span>: 0.54</a>",
+                "# occurrences: 2",
+                "<a href=\"singleton_motifs/12_12_12_10/12_16_2.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/12_12_12_10/12_16_2.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGnnnnnTnTnnnGnnnnGGAnnnnnnCnnGnnnnAnnCGnnnnTCnG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_1": {
+        "pwms": [
+            "quadruplet_motifs/12_12_13_10/2_5_13.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 2 nucleotides apart<br>pattern 12 and 13 are 5 nucleotides apart<br>pattern 13 and 10 are 13 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/12_12_13_10/box_2_5_13.png')\"><span class=\"putBar\">contribution</span>: 0.92</a>",
+                "# occurrences: 2",
+                "<a href=\"singleton_motifs/12_12_13_10/2_5_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/12_12_13_10/2_5_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGnAnnCCGnnnnnnnnTTTTnCGnnnGnnnnnnTCnGG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    }
+}

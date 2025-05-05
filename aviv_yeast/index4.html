@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> motifs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>    
+    <br><br>
+    <div class="wrapper">
+
+        <div id="nav" style="display: flex; justify-content: center;"></div>
+        <br><br><br><br><br>
+        <div class="container">
+            <!-- Image Set 1 -->
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer1 class="imageContainer">
+                        <img id="img1" src="quadruplet_motifs/12_12_13_10/2_5_13.png" alt="pattern 12 and 12 are 2 nucleotides apart&lt;br&gt;pattern 12 and 13 are 5 nucleotides apart&lt;br&gt;pattern 13 and 10 are 13 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer1" class="textContainer">
+                        <p id="text1_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/12_12_13_10/box_2_5_13.png')"><span class="putBar">contribution</span>: 0.92</a></p>
+                        <p id="text1_2" class="imageText"># occurrences: 2</p>
+                        <p id="text1_3" class="imageText"><a href="singleton_motifs/12_12_13_10/2_5_13.meme">.meme file</a></p>
+                        <p id="text1_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/12_12_13_10/2_5_13.csv')">string highlight</a></p>
+                        <p id="text1_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CCGnAnnCCGnnnnnnnnTTTTnCGnnnGnnnnnnTCnGG')">consensus string</a></p>
+                        <p id="text1_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer1 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR1" type="range" min="0" max="0" value="0">
+                    <span id="range1">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer2 class="imageContainer">
+                        <img id="img2" src="quadruplet_motifs/12_12_12_10/12_16_2.png" alt="pattern 12 and 12 are 12 nucleotides apart&lt;br&gt;pattern 12 and 12 are 16 nucleotides apart&lt;br&gt;pattern 12 and 10 are 2 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer2" class="textContainer">
+                        <p id="text2_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/12_12_12_10/box_12_16_2.png')"><span class="putBar">contribution</span>: 0.54</a></p>
+                        <p id="text2_2" class="imageText"># occurrences: 2</p>
+                        <p id="text2_3" class="imageText"><a href="singleton_motifs/12_12_12_10/12_16_2.meme">.meme file</a></p>
+                        <p id="text2_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/12_12_12_10/12_16_2.csv')">string highlight</a></p>
+                        <p id="text2_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('GCGnnnnnTnTnnnGnnnnGGAnnnnnnCnnGnnnnAnnCGnnnnTCnG')">consensus string</a></p>
+                        <p id="text2_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer2 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR2" type="range" min="0" max="0" value="0">
+                    <span id="range2">Image 1</span>
+                </div>
+            </div>
+            <div class="sliderGroup">
+                <div class="imageTextContainer">
+                    <div id=imageContainer3 class="imageContainer">
+                        <img id="img3" src="quadruplet_motifs/12_14_14_10/3_8_4.png" alt="pattern 12 and 14 are 3 nucleotides apart&lt;br&gt;pattern 14 and 14 are 8 nucleotides apart&lt;br&gt;pattern 14 and 10 are 4 nucleotides apart&lt;br&gt;">
+                    </div>
+                    <div id="textContainer3" class="textContainer">
+                        <p id="text3_1" class="imageText"><a href="#5" onclick="openHtmlWindowImg('quadruplet_motifs/12_14_14_10/box_3_8_4.png')"><span class="putBar">contribution</span>: 0.49</a></p>
+                        <p id="text3_2" class="imageText"># occurrences: 1</p>
+                        <p id="text3_3" class="imageText"><a href="singleton_motifs/12_14_14_10/3_8_4.meme">.meme file</a></p>
+                        <p id="text3_4" class="imageText"><a href="#" onclick="openHighlightPage('quadruplet_motifs/12_14_14_10/3_8_4.csv')">string highlight</a></p>
+                        <p id="text3_5" class="imageText"><a href="#3" onclick="openHtmlWindowText('CCGAAGAACGCGGGCGTGACGCGCGGTCTCTCGGG')">consensus string</a></p>
+                        <p id="text3_6" class="imageText">--</p>
+                    </div>
+                </div>
+                <div id=slideContainer3 class="sliderContainer">
+                    <!--  <span>Select Image:</span> -->
+                    <input id="valR3" type="range" min="0" max="0" value="0">
+                    <span id="range3">Image 1</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="scripts4.js"></script>
+    <!-- Modal Structure -->
+    <div id="highlightModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="highlightedSequences"></div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for clustering -->
+    <div id="highlightModal_cluster">
+        <div id="highlightContent">
+            <span class="close" onclick="closeModal_cluster()">&times;</span>
+            <div class="modal-column">
+                <img id="modalImage" src="" alt="Image">
+            </div>
+            <div class="modal-column">
+                <p id="modalText">This is placeholder text. You can replace it with dynamic content as needed.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for consensus_str -->
+    <div id="highlightModal_text">
+        <div id="highlightModal_text_content">
+            <span class="close" onclick="closeModal_text()">&times;</span>
+            <div class="modal-column">
+                <p id="modalText1"> This is placeholder text. You can replace it with dynamic content as needed.</p>
+                <button id="copyButton" onclick="copyText()">copy string</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for just image -->
+    <div id="highlightModal_img">
+        <div id="highlightModal_img_content">
+            <span class="close" onclick="closeModal_img()">&times;</span>
+            <div class="modal-column">
+                <img id="modalImage1" src="" alt="Image">
+            </div>
+        </div>
+    </div>
+</body></html>
